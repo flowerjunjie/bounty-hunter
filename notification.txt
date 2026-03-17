@@ -1,0 +1,19 @@
+🎯 **Bounty Hunter Alert!**
+
+📢 **31 new bounties found!**
+
+• **$50** - [Create test suite that tests the correct...](https://github.com/zio/zio/issues/9909)
+  Repo: `zio/zio`
+• **$50** - [ZScheduler parks+unparks workers too fre...](https://github.com/zio/zio/issues/9878)
+  Repo: `zio/zio`
+• **$50** - [Can Fiber(Runtime) and Promise be merged...](https://github.com/zio/zio/issues/9877)
+  Repo: `zio/zio`
+• **$50** - [Handling errors allows recovering from d...](https://github.com/zio/zio/issues/9874)
+  Repo: `zio/zio`
+• **$50** - [improved `Queue` shutdown functionality...](https://github.com/zio/zio/issues/9844)
+  Repo: `zio/zio`
+
+💰 **Total available:** $1550
+🕐 **Scan time:** 2026-03-01 00:00 UTC
+
+🔗 [View all on Algora](https://algora.io/bounties)

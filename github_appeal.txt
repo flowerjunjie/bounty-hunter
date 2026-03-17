@@ -1,0 +1,43 @@
+# GitHub Account Unblock Request
+
+## Account Information
+- **Username**: flowerjunjie
+- **Account ID**: flowerjunjie
+- **Email**: flowerjunjie@users.noreply.github.com
+
+## Issue Description
+My account has been blocked from creating Pull Requests. When attempting to create PRs, I receive the following error:
+
+```
+GraphQL: User is blocked (createPullRequest)
+```
+
+## Context
+I am a software developer working on open-source contributions, specifically:
+- Contributing to zio/zio project
+- Creating providers for keephq/keep
+- Participating in bug bounty programs
+
+## Recent Activity
+I have been working on several legitimate pull requests:
+1. SkyWalking provider for keephq/keep (#5487)
+2. SolarWinds provider for keephq/keep (#3526)
+3. SNMP provider for keephq/keep (#2112)
+4. Classic assertion Diff rendering for zio/zio (#8664)
+
+All code is pushed to my fork and ready for PR submission, but I'm unable to create them due to this block.
+
+## Request
+Please review my account and remove the block so I can continue my open-source contributions.
+
+I am happy to provide any additional information needed to verify my identity and intentions.
+
+## Contact
+- **GitHub Username**: flowerjunjie
+- **Email**: Please contact me via GitHub's messaging system for verification
+
+Thank you for your assistance.
+
+---
+*Submitted: 2026-03-12*
+*Platform: GitHub*

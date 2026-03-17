@@ -1,0 +1,1979 @@
+🎯 Bounty Hunter Monitor - Starting scan...
+============================================================
+
+============================================================
+📈 ALGORA BOUNTY MARKET INSIGHTS
+============================================================
+
+🏆 Top Projects by Historical Payout:
+   $143,000 | ZIO (Scala)
+   $ 15,000 | Golem (Rust)
+   $ 10,000 | Maybe (Ruby/TypeScript)
+   $  8,000 | Keep (Python/TypeScript)
+   $  5,000 | Screenpipe (Rust)
+
+💻 Tech Stack Demand:
+   20 open | $180 avg | Rust
+   14 open | $450 avg | Scala
+   11 open | $120 avg | JavaScript
+   10 open | $140 avg | TypeScript
+    5 open | $250 avg | Go
+    3 open | $200 avg | Python
+
+💡 Strategy Recommendations:
+   1. Scala (ZIO ecosystem) - Highest avg reward ($450)
+   2. Rust - Most open bounties (20)
+   3. Python - Good balance of demand & reward
+   4. Focus on YC companies (Keep, Screenpipe, Maybe)
+
+🚀 Starting scan at 2026-03-01 00:00:01
+============================================================
+
+📦 ZIO (Scala, $143,000 history)
+🔍 zio/zio
+   ✅ 22 bounties, $1,100 total
+🔍 zio/zio-http
+   ✅ 6 bounties, $300 total
+🔍 zio/zio-quill
+🔍 zio/zio-json
+   ✅ 2 bounties, $100 total
+🔍 zio/zio-kafka
+
+📦 Keep (Python/TypeScript, $8,000 history)
+🔍 keephq/keep
+   ✅ 1 bounties, $50 total
+
+📦 Screenpipe (Rust, $5,000 history)
+🔍 mediar-ai/screenpipe
+
+📦 Maybe (Ruby/TypeScript, $10,000 history)
+🔍 maybe-finance/maybe
+
+📦 Golem (Rust, $15,000 history)
+🔍 golemcloud/golem
+🔍 golemcloud/golem-cli
+
+📦 Unsiloed (Python, $3,000 history)
+🔍 unsiloed-ai/unsiloed
+
+============================================================
+📊 SCAN SUMMARY
+============================================================
+
+📈 Total Bounties: 31
+💰 Total Value: $1,550.00
+💵 Average: $50.00
+
+🔥 Top Bounties:
+------------------------------------------------------------
+ 1. $     50 | zio/zio                   | Create test suite that tests the co...
+ 2. $     50 | zio/zio                   | ZScheduler parks+unparks workers to...
+ 3. $     50 | zio/zio                   | Can Fiber(Runtime) and Promise be m...
+ 4. $     50 | zio/zio                   | Handling errors allows recovering f...
+ 5. $     50 | zio/zio                   | improved `Queue` shutdown functiona...
+ 6. $     50 | zio/zio                   | ZStreams buffer(1) is buffering 2....
+ 7. $     50 | zio/zio                   | Implement NIO scheduler for ZIO...
+ 8. $     50 | zio/zio                   | Parallelism level in `ZStream#mapZI...
+ 9. $     50 | zio/zio                   | Easier derivation of Config with Sc...
+10. $     50 | zio/zio                   | ZIO.timeoutTO has tremendous overhe...
+
+📁 Results saved to:
+   /root/.bounty-hunter
+
+📊 Analysis:
+   New bounties: 31
+   High value (>=$200): 0
+
+🔔 Notification saved to: /root/.bounty-hunter/notification.txt
+
+============================================================
+🎯 **Bounty Hunter Alert!**
+
+📢 **31 new bounties found!**
+
+• **$50** - [Create test suite that tests the correct...](https://github.com/zio/zio/issues/9909)
+  Repo: `zio/zio`
+• **$50** - [ZScheduler parks+unparks workers too fre...](https://github.com/zio/zio/issues/9878)
+  Repo: `zio/zio`
+• **$50** - [Can Fiber(Runtime) and Promise be merged...](https://github.com/zio/zio/issues/9877)
+  Repo: `zio/zio`
+• **$50** - [Handling errors allows recovering from d...](https://github.com/zio/zio/issues/9874)
+  Repo: `zio/zio`
+• **$50** - [improved `Queue` shutdown functionality...](https://github.com/zio/zio/issues/9844)
+  Repo: `zio/zio`
+
+💰 **Total available:** $1550
+🕐 **Scan time:** 2026-03-01 00:00 UTC
+
+🔗 [View all on Algora](https://algora.io/bounties)
+
+💾 State saved. Next scan will detect new bounties.
+🎯 Bounty Hunter Monitor - Starting scan...
+============================================================
+
+============================================================
+📈 ALGORA BOUNTY MARKET INSIGHTS
+============================================================
+
+🏆 Top Projects by Historical Payout:
+   $143,000 | ZIO (Scala)
+   $ 15,000 | Golem (Rust)
+   $ 10,000 | Maybe (Ruby/TypeScript)
+   $  8,000 | Keep (Python/TypeScript)
+   $  5,000 | Screenpipe (Rust)
+
+💻 Tech Stack Demand:
+   20 open | $180 avg | Rust
+   14 open | $450 avg | Scala
+   11 open | $120 avg | JavaScript
+   10 open | $140 avg | TypeScript
+    5 open | $250 avg | Go
+    3 open | $200 avg | Python
+
+💡 Strategy Recommendations:
+   1. Scala (ZIO ecosystem) - Highest avg reward ($450)
+   2. Rust - Most open bounties (20)
+   3. Python - Good balance of demand & reward
+   4. Focus on YC companies (Keep, Screenpipe, Maybe)
+
+🚀 Starting scan at 2026-03-01 04:00:01
+============================================================
+
+📦 ZIO (Scala, $143,000 history)
+🔍 zio/zio
+   ✅ 22 bounties, $1,100 total
+🔍 zio/zio-http
+   ✅ 6 bounties, $300 total
+🔍 zio/zio-quill
+🔍 zio/zio-json
+   ✅ 2 bounties, $100 total
+🔍 zio/zio-kafka
+
+📦 Keep (Python/TypeScript, $8,000 history)
+🔍 keephq/keep
+   ✅ 1 bounties, $50 total
+
+📦 Screenpipe (Rust, $5,000 history)
+🔍 mediar-ai/screenpipe
+
+📦 Maybe (Ruby/TypeScript, $10,000 history)
+🔍 maybe-finance/maybe
+
+📦 Golem (Rust, $15,000 history)
+🔍 golemcloud/golem
+🔍 golemcloud/golem-cli
+
+📦 Unsiloed (Python, $3,000 history)
+🔍 unsiloed-ai/unsiloed
+
+============================================================
+📊 SCAN SUMMARY
+============================================================
+
+📈 Total Bounties: 31
+💰 Total Value: $1,550.00
+💵 Average: $50.00
+
+🔥 Top Bounties:
+------------------------------------------------------------
+ 1. $     50 | zio/zio                   | Create test suite that tests the co...
+ 2. $     50 | zio/zio                   | ZScheduler parks+unparks workers to...
+ 3. $     50 | zio/zio                   | Can Fiber(Runtime) and Promise be m...
+ 4. $     50 | zio/zio                   | Handling errors allows recovering f...
+ 5. $     50 | zio/zio                   | improved `Queue` shutdown functiona...
+ 6. $     50 | zio/zio                   | ZStreams buffer(1) is buffering 2....
+ 7. $     50 | zio/zio                   | Implement NIO scheduler for ZIO...
+ 8. $     50 | zio/zio                   | Parallelism level in `ZStream#mapZI...
+ 9. $     50 | zio/zio                   | Easier derivation of Config with Sc...
+10. $     50 | zio/zio                   | ZIO.timeoutTO has tremendous overhe...
+
+📁 Results saved to:
+   /root/.bounty-hunter
+
+📊 Analysis:
+   New bounties: 0
+   High value (>=$200): 0
+
+✅ No new bounties to report
+
+💾 State saved. Next scan will detect new bounties.
+🎯 Bounty Hunter Monitor - Starting scan...
+============================================================
+
+============================================================
+📈 ALGORA BOUNTY MARKET INSIGHTS
+============================================================
+
+🏆 Top Projects by Historical Payout:
+   $143,000 | ZIO (Scala)
+   $ 15,000 | Golem (Rust)
+   $ 10,000 | Maybe (Ruby/TypeScript)
+   $  8,000 | Keep (Python/TypeScript)
+   $  5,000 | Screenpipe (Rust)
+
+💻 Tech Stack Demand:
+   20 open | $180 avg | Rust
+   14 open | $450 avg | Scala
+   11 open | $120 avg | JavaScript
+   10 open | $140 avg | TypeScript
+    5 open | $250 avg | Go
+    3 open | $200 avg | Python
+
+💡 Strategy Recommendations:
+   1. Scala (ZIO ecosystem) - Highest avg reward ($450)
+   2. Rust - Most open bounties (20)
+   3. Python - Good balance of demand & reward
+   4. Focus on YC companies (Keep, Screenpipe, Maybe)
+
+🚀 Starting scan at 2026-03-01 08:00:01
+============================================================
+
+📦 ZIO (Scala, $143,000 history)
+🔍 zio/zio
+   ✅ 22 bounties, $1,100 total
+🔍 zio/zio-http
+   ✅ 6 bounties, $300 total
+🔍 zio/zio-quill
+🔍 zio/zio-json
+   ✅ 2 bounties, $100 total
+🔍 zio/zio-kafka
+
+📦 Keep (Python/TypeScript, $8,000 history)
+🔍 keephq/keep
+   ✅ 1 bounties, $50 total
+
+📦 Screenpipe (Rust, $5,000 history)
+🔍 mediar-ai/screenpipe
+
+📦 Maybe (Ruby/TypeScript, $10,000 history)
+🔍 maybe-finance/maybe
+
+📦 Golem (Rust, $15,000 history)
+🔍 golemcloud/golem
+🔍 golemcloud/golem-cli
+
+📦 Unsiloed (Python, $3,000 history)
+🔍 unsiloed-ai/unsiloed
+
+============================================================
+📊 SCAN SUMMARY
+============================================================
+
+📈 Total Bounties: 31
+💰 Total Value: $1,550.00
+💵 Average: $50.00
+
+🔥 Top Bounties:
+------------------------------------------------------------
+ 1. $     50 | zio/zio                   | Create test suite that tests the co...
+ 2. $     50 | zio/zio                   | ZScheduler parks+unparks workers to...
+ 3. $     50 | zio/zio                   | Can Fiber(Runtime) and Promise be m...
+ 4. $     50 | zio/zio                   | Handling errors allows recovering f...
+ 5. $     50 | zio/zio                   | improved `Queue` shutdown functiona...
+ 6. $     50 | zio/zio                   | ZStreams buffer(1) is buffering 2....
+ 7. $     50 | zio/zio                   | Implement NIO scheduler for ZIO...
+ 8. $     50 | zio/zio                   | Parallelism level in `ZStream#mapZI...
+ 9. $     50 | zio/zio                   | Easier derivation of Config with Sc...
+10. $     50 | zio/zio                   | ZIO.timeoutTO has tremendous overhe...
+
+📁 Results saved to:
+   /root/.bounty-hunter
+
+📊 Analysis:
+   New bounties: 0
+   High value (>=$200): 0
+
+✅ No new bounties to report
+
+💾 State saved. Next scan will detect new bounties.
+🎯 Bounty Hunter Monitor - Starting scan...
+============================================================
+
+============================================================
+📈 ALGORA BOUNTY MARKET INSIGHTS
+============================================================
+
+🏆 Top Projects by Historical Payout:
+   $143,000 | ZIO (Scala)
+   $ 15,000 | Golem (Rust)
+   $ 10,000 | Maybe (Ruby/TypeScript)
+   $  8,000 | Keep (Python/TypeScript)
+   $  5,000 | Screenpipe (Rust)
+
+💻 Tech Stack Demand:
+   20 open | $180 avg | Rust
+   14 open | $450 avg | Scala
+   11 open | $120 avg | JavaScript
+   10 open | $140 avg | TypeScript
+    5 open | $250 avg | Go
+    3 open | $200 avg | Python
+
+💡 Strategy Recommendations:
+   1. Scala (ZIO ecosystem) - Highest avg reward ($450)
+   2. Rust - Most open bounties (20)
+   3. Python - Good balance of demand & reward
+   4. Focus on YC companies (Keep, Screenpipe, Maybe)
+
+🚀 Starting scan at 2026-03-01 12:00:01
+============================================================
+
+📦 ZIO (Scala, $143,000 history)
+🔍 zio/zio
+   ✅ 22 bounties, $1,100 total
+🔍 zio/zio-http
+   ✅ 6 bounties, $300 total
+🔍 zio/zio-quill
+🔍 zio/zio-json
+   ✅ 2 bounties, $100 total
+🔍 zio/zio-kafka
+
+📦 Keep (Python/TypeScript, $8,000 history)
+🔍 keephq/keep
+   ✅ 1 bounties, $50 total
+
+📦 Screenpipe (Rust, $5,000 history)
+🔍 mediar-ai/screenpipe
+
+📦 Maybe (Ruby/TypeScript, $10,000 history)
+🔍 maybe-finance/maybe
+
+📦 Golem (Rust, $15,000 history)
+🔍 golemcloud/golem
+🔍 golemcloud/golem-cli
+
+📦 Unsiloed (Python, $3,000 history)
+🔍 unsiloed-ai/unsiloed
+
+============================================================
+📊 SCAN SUMMARY
+============================================================
+
+📈 Total Bounties: 31
+💰 Total Value: $1,550.00
+💵 Average: $50.00
+
+🔥 Top Bounties:
+------------------------------------------------------------
+ 1. $     50 | zio/zio                   | Create test suite that tests the co...
+ 2. $     50 | zio/zio                   | ZScheduler parks+unparks workers to...
+ 3. $     50 | zio/zio                   | Can Fiber(Runtime) and Promise be m...
+ 4. $     50 | zio/zio                   | Handling errors allows recovering f...
+ 5. $     50 | zio/zio                   | improved `Queue` shutdown functiona...
+ 6. $     50 | zio/zio                   | ZStreams buffer(1) is buffering 2....
+ 7. $     50 | zio/zio                   | Implement NIO scheduler for ZIO...
+ 8. $     50 | zio/zio                   | Parallelism level in `ZStream#mapZI...
+ 9. $     50 | zio/zio                   | Easier derivation of Config with Sc...
+10. $     50 | zio/zio                   | ZIO.timeoutTO has tremendous overhe...
+
+📁 Results saved to:
+   /root/.bounty-hunter
+
+📊 Analysis:
+   New bounties: 0
+   High value (>=$200): 0
+
+✅ No new bounties to report
+
+💾 State saved. Next scan will detect new bounties.
+🎯 Bounty Hunter Monitor - Starting scan...
+============================================================
+
+============================================================
+📈 ALGORA BOUNTY MARKET INSIGHTS
+============================================================
+
+🏆 Top Projects by Historical Payout:
+   $143,000 | ZIO (Scala)
+   $ 15,000 | Golem (Rust)
+   $ 10,000 | Maybe (Ruby/TypeScript)
+   $  8,000 | Keep (Python/TypeScript)
+   $  5,000 | Screenpipe (Rust)
+
+💻 Tech Stack Demand:
+   20 open | $180 avg | Rust
+   14 open | $450 avg | Scala
+   11 open | $120 avg | JavaScript
+   10 open | $140 avg | TypeScript
+    5 open | $250 avg | Go
+    3 open | $200 avg | Python
+
+💡 Strategy Recommendations:
+   1. Scala (ZIO ecosystem) - Highest avg reward ($450)
+   2. Rust - Most open bounties (20)
+   3. Python - Good balance of demand & reward
+   4. Focus on YC companies (Keep, Screenpipe, Maybe)
+
+🚀 Starting scan at 2026-03-01 16:00:01
+============================================================
+
+📦 ZIO (Scala, $143,000 history)
+🔍 zio/zio
+   ✅ 22 bounties, $1,100 total
+🔍 zio/zio-http
+   ✅ 6 bounties, $300 total
+🔍 zio/zio-quill
+🔍 zio/zio-json
+   ✅ 2 bounties, $100 total
+🔍 zio/zio-kafka
+
+📦 Keep (Python/TypeScript, $8,000 history)
+🔍 keephq/keep
+   ✅ 1 bounties, $50 total
+
+📦 Screenpipe (Rust, $5,000 history)
+🔍 mediar-ai/screenpipe
+
+📦 Maybe (Ruby/TypeScript, $10,000 history)
+🔍 maybe-finance/maybe
+
+📦 Golem (Rust, $15,000 history)
+🔍 golemcloud/golem
+🔍 golemcloud/golem-cli
+
+📦 Unsiloed (Python, $3,000 history)
+🔍 unsiloed-ai/unsiloed
+
+============================================================
+📊 SCAN SUMMARY
+============================================================
+
+📈 Total Bounties: 31
+💰 Total Value: $1,550.00
+💵 Average: $50.00
+
+🔥 Top Bounties:
+------------------------------------------------------------
+ 1. $     50 | zio/zio                   | Create test suite that tests the co...
+ 2. $     50 | zio/zio                   | ZScheduler parks+unparks workers to...
+ 3. $     50 | zio/zio                   | Can Fiber(Runtime) and Promise be m...
+ 4. $     50 | zio/zio                   | Handling errors allows recovering f...
+ 5. $     50 | zio/zio                   | improved `Queue` shutdown functiona...
+ 6. $     50 | zio/zio                   | ZStreams buffer(1) is buffering 2....
+ 7. $     50 | zio/zio                   | Implement NIO scheduler for ZIO...
+ 8. $     50 | zio/zio                   | Parallelism level in `ZStream#mapZI...
+ 9. $     50 | zio/zio                   | Easier derivation of Config with Sc...
+10. $     50 | zio/zio                   | ZIO.timeoutTO has tremendous overhe...
+
+📁 Results saved to:
+   /root/.bounty-hunter
+
+📊 Analysis:
+   New bounties: 0
+   High value (>=$200): 0
+
+✅ No new bounties to report
+
+💾 State saved. Next scan will detect new bounties.
+🎯 Bounty Hunter Monitor - Starting scan...
+============================================================
+
+============================================================
+📈 ALGORA BOUNTY MARKET INSIGHTS
+============================================================
+
+🏆 Top Projects by Historical Payout:
+   $143,000 | ZIO (Scala)
+   $ 15,000 | Golem (Rust)
+   $ 10,000 | Maybe (Ruby/TypeScript)
+   $  8,000 | Keep (Python/TypeScript)
+   $  5,000 | Screenpipe (Rust)
+
+💻 Tech Stack Demand:
+   20 open | $180 avg | Rust
+   14 open | $450 avg | Scala
+   11 open | $120 avg | JavaScript
+   10 open | $140 avg | TypeScript
+    5 open | $250 avg | Go
+    3 open | $200 avg | Python
+
+💡 Strategy Recommendations:
+   1. Scala (ZIO ecosystem) - Highest avg reward ($450)
+   2. Rust - Most open bounties (20)
+   3. Python - Good balance of demand & reward
+   4. Focus on YC companies (Keep, Screenpipe, Maybe)
+
+🚀 Starting scan at 2026-03-01 20:00:02
+============================================================
+
+📦 ZIO (Scala, $143,000 history)
+🔍 zio/zio
+   ✅ 22 bounties, $1,100 total
+🔍 zio/zio-http
+   ✅ 6 bounties, $300 total
+🔍 zio/zio-quill
+🔍 zio/zio-json
+   ✅ 2 bounties, $100 total
+🔍 zio/zio-kafka
+
+📦 Keep (Python/TypeScript, $8,000 history)
+🔍 keephq/keep
+   ✅ 1 bounties, $50 total
+
+📦 Screenpipe (Rust, $5,000 history)
+🔍 mediar-ai/screenpipe
+
+📦 Maybe (Ruby/TypeScript, $10,000 history)
+🔍 maybe-finance/maybe
+
+📦 Golem (Rust, $15,000 history)
+🔍 golemcloud/golem
+🔍 golemcloud/golem-cli
+
+📦 Unsiloed (Python, $3,000 history)
+🔍 unsiloed-ai/unsiloed
+
+============================================================
+📊 SCAN SUMMARY
+============================================================
+
+📈 Total Bounties: 31
+💰 Total Value: $1,550.00
+💵 Average: $50.00
+
+🔥 Top Bounties:
+------------------------------------------------------------
+ 1. $     50 | zio/zio                   | Create test suite that tests the co...
+ 2. $     50 | zio/zio                   | ZScheduler parks+unparks workers to...
+ 3. $     50 | zio/zio                   | Can Fiber(Runtime) and Promise be m...
+ 4. $     50 | zio/zio                   | Handling errors allows recovering f...
+ 5. $     50 | zio/zio                   | improved `Queue` shutdown functiona...
+ 6. $     50 | zio/zio                   | ZStreams buffer(1) is buffering 2....
+ 7. $     50 | zio/zio                   | Implement NIO scheduler for ZIO...
+ 8. $     50 | zio/zio                   | Parallelism level in `ZStream#mapZI...
+ 9. $     50 | zio/zio                   | Easier derivation of Config with Sc...
+10. $     50 | zio/zio                   | ZIO.timeoutTO has tremendous overhe...
+
+📁 Results saved to:
+   /root/.bounty-hunter
+
+📊 Analysis:
+   New bounties: 0
+   High value (>=$200): 0
+
+✅ No new bounties to report
+
+💾 State saved. Next scan will detect new bounties.
+🎯 Bounty Hunter Monitor - Starting scan...
+============================================================
+
+============================================================
+📈 ALGORA BOUNTY MARKET INSIGHTS
+============================================================
+
+🏆 Top Projects by Historical Payout:
+   $143,000 | ZIO (Scala)
+   $ 15,000 | Golem (Rust)
+   $ 10,000 | Maybe (Ruby/TypeScript)
+   $  8,000 | Keep (Python/TypeScript)
+   $  5,000 | Screenpipe (Rust)
+
+💻 Tech Stack Demand:
+   20 open | $180 avg | Rust
+   14 open | $450 avg | Scala
+   11 open | $120 avg | JavaScript
+   10 open | $140 avg | TypeScript
+    5 open | $250 avg | Go
+    3 open | $200 avg | Python
+
+💡 Strategy Recommendations:
+   1. Scala (ZIO ecosystem) - Highest avg reward ($450)
+   2. Rust - Most open bounties (20)
+   3. Python - Good balance of demand & reward
+   4. Focus on YC companies (Keep, Screenpipe, Maybe)
+
+🚀 Starting scan at 2026-03-02 00:00:01
+============================================================
+
+📦 ZIO (Scala, $143,000 history)
+🔍 zio/zio
+   ✅ 22 bounties, $1,100 total
+🔍 zio/zio-http
+   ✅ 6 bounties, $300 total
+🔍 zio/zio-quill
+🔍 zio/zio-json
+   ✅ 2 bounties, $100 total
+🔍 zio/zio-kafka
+
+📦 Keep (Python/TypeScript, $8,000 history)
+🔍 keephq/keep
+   ✅ 1 bounties, $50 total
+
+📦 Screenpipe (Rust, $5,000 history)
+🔍 mediar-ai/screenpipe
+
+📦 Maybe (Ruby/TypeScript, $10,000 history)
+🔍 maybe-finance/maybe
+
+📦 Golem (Rust, $15,000 history)
+🔍 golemcloud/golem
+🔍 golemcloud/golem-cli
+
+📦 Unsiloed (Python, $3,000 history)
+🔍 unsiloed-ai/unsiloed
+
+============================================================
+📊 SCAN SUMMARY
+============================================================
+
+📈 Total Bounties: 31
+💰 Total Value: $1,550.00
+💵 Average: $50.00
+
+🔥 Top Bounties:
+------------------------------------------------------------
+ 1. $     50 | zio/zio                   | Create test suite that tests the co...
+ 2. $     50 | zio/zio                   | ZScheduler parks+unparks workers to...
+ 3. $     50 | zio/zio                   | Can Fiber(Runtime) and Promise be m...
+ 4. $     50 | zio/zio                   | Handling errors allows recovering f...
+ 5. $     50 | zio/zio                   | improved `Queue` shutdown functiona...
+ 6. $     50 | zio/zio                   | ZStreams buffer(1) is buffering 2....
+ 7. $     50 | zio/zio                   | Implement NIO scheduler for ZIO...
+ 8. $     50 | zio/zio                   | Parallelism level in `ZStream#mapZI...
+ 9. $     50 | zio/zio                   | Easier derivation of Config with Sc...
+10. $     50 | zio/zio                   | ZIO.timeoutTO has tremendous overhe...
+
+📁 Results saved to:
+   /root/.bounty-hunter
+
+📊 Analysis:
+   New bounties: 0
+   High value (>=$200): 0
+
+✅ No new bounties to report
+
+💾 State saved. Next scan will detect new bounties.
+🎯 Bounty Hunter Monitor - Starting scan...
+============================================================
+
+============================================================
+📈 ALGORA BOUNTY MARKET INSIGHTS
+============================================================
+
+🏆 Top Projects by Historical Payout:
+   $143,000 | ZIO (Scala)
+   $ 15,000 | Golem (Rust)
+   $ 10,000 | Maybe (Ruby/TypeScript)
+   $  8,000 | Keep (Python/TypeScript)
+   $  5,000 | Screenpipe (Rust)
+
+💻 Tech Stack Demand:
+   20 open | $180 avg | Rust
+   14 open | $450 avg | Scala
+   11 open | $120 avg | JavaScript
+   10 open | $140 avg | TypeScript
+    5 open | $250 avg | Go
+    3 open | $200 avg | Python
+
+💡 Strategy Recommendations:
+   1. Scala (ZIO ecosystem) - Highest avg reward ($450)
+   2. Rust - Most open bounties (20)
+   3. Python - Good balance of demand & reward
+   4. Focus on YC companies (Keep, Screenpipe, Maybe)
+
+🚀 Starting scan at 2026-03-02 04:00:01
+============================================================
+
+📦 ZIO (Scala, $143,000 history)
+🔍 zio/zio
+   ✅ 22 bounties, $1,100 total
+🔍 zio/zio-http
+   ✅ 6 bounties, $300 total
+🔍 zio/zio-quill
+🔍 zio/zio-json
+   ✅ 2 bounties, $100 total
+🔍 zio/zio-kafka
+
+📦 Keep (Python/TypeScript, $8,000 history)
+🔍 keephq/keep
+   ✅ 1 bounties, $50 total
+
+📦 Screenpipe (Rust, $5,000 history)
+🔍 mediar-ai/screenpipe
+
+📦 Maybe (Ruby/TypeScript, $10,000 history)
+🔍 maybe-finance/maybe
+
+📦 Golem (Rust, $15,000 history)
+🔍 golemcloud/golem
+🔍 golemcloud/golem-cli
+
+📦 Unsiloed (Python, $3,000 history)
+🔍 unsiloed-ai/unsiloed
+
+============================================================
+📊 SCAN SUMMARY
+============================================================
+
+📈 Total Bounties: 31
+💰 Total Value: $1,550.00
+💵 Average: $50.00
+
+🔥 Top Bounties:
+------------------------------------------------------------
+ 1. $     50 | zio/zio                   | Create test suite that tests the co...
+ 2. $     50 | zio/zio                   | ZScheduler parks+unparks workers to...
+ 3. $     50 | zio/zio                   | Can Fiber(Runtime) and Promise be m...
+ 4. $     50 | zio/zio                   | Handling errors allows recovering f...
+ 5. $     50 | zio/zio                   | improved `Queue` shutdown functiona...
+ 6. $     50 | zio/zio                   | ZStreams buffer(1) is buffering 2....
+ 7. $     50 | zio/zio                   | Implement NIO scheduler for ZIO...
+ 8. $     50 | zio/zio                   | Parallelism level in `ZStream#mapZI...
+ 9. $     50 | zio/zio                   | Easier derivation of Config with Sc...
+10. $     50 | zio/zio                   | ZIO.timeoutTO has tremendous overhe...
+
+📁 Results saved to:
+   /root/.bounty-hunter
+
+📊 Analysis:
+   New bounties: 0
+   High value (>=$200): 0
+
+✅ No new bounties to report
+
+💾 State saved. Next scan will detect new bounties.
+🎯 Bounty Hunter Monitor - Starting scan...
+============================================================
+
+============================================================
+📈 ALGORA BOUNTY MARKET INSIGHTS
+============================================================
+
+🏆 Top Projects by Historical Payout:
+   $143,000 | ZIO (Scala)
+   $ 15,000 | Golem (Rust)
+   $ 10,000 | Maybe (Ruby/TypeScript)
+   $  8,000 | Keep (Python/TypeScript)
+   $  5,000 | Screenpipe (Rust)
+
+💻 Tech Stack Demand:
+   20 open | $180 avg | Rust
+   14 open | $450 avg | Scala
+   11 open | $120 avg | JavaScript
+   10 open | $140 avg | TypeScript
+    5 open | $250 avg | Go
+    3 open | $200 avg | Python
+
+💡 Strategy Recommendations:
+   1. Scala (ZIO ecosystem) - Highest avg reward ($450)
+   2. Rust - Most open bounties (20)
+   3. Python - Good balance of demand & reward
+   4. Focus on YC companies (Keep, Screenpipe, Maybe)
+
+🚀 Starting scan at 2026-03-02 08:00:01
+============================================================
+
+📦 ZIO (Scala, $143,000 history)
+🔍 zio/zio
+   ✅ 22 bounties, $1,100 total
+🔍 zio/zio-http
+   ✅ 6 bounties, $300 total
+🔍 zio/zio-quill
+🔍 zio/zio-json
+   ✅ 2 bounties, $100 total
+🔍 zio/zio-kafka
+
+📦 Keep (Python/TypeScript, $8,000 history)
+🔍 keephq/keep
+   ✅ 1 bounties, $50 total
+
+📦 Screenpipe (Rust, $5,000 history)
+🔍 mediar-ai/screenpipe
+
+📦 Maybe (Ruby/TypeScript, $10,000 history)
+🔍 maybe-finance/maybe
+
+📦 Golem (Rust, $15,000 history)
+🔍 golemcloud/golem
+🔍 golemcloud/golem-cli
+
+📦 Unsiloed (Python, $3,000 history)
+🔍 unsiloed-ai/unsiloed
+
+============================================================
+📊 SCAN SUMMARY
+============================================================
+
+📈 Total Bounties: 31
+💰 Total Value: $1,550.00
+💵 Average: $50.00
+
+🔥 Top Bounties:
+------------------------------------------------------------
+ 1. $     50 | zio/zio                   | Create test suite that tests the co...
+ 2. $     50 | zio/zio                   | ZScheduler parks+unparks workers to...
+ 3. $     50 | zio/zio                   | Can Fiber(Runtime) and Promise be m...
+ 4. $     50 | zio/zio                   | Handling errors allows recovering f...
+ 5. $     50 | zio/zio                   | improved `Queue` shutdown functiona...
+ 6. $     50 | zio/zio                   | ZStreams buffer(1) is buffering 2....
+ 7. $     50 | zio/zio                   | Implement NIO scheduler for ZIO...
+ 8. $     50 | zio/zio                   | Parallelism level in `ZStream#mapZI...
+ 9. $     50 | zio/zio                   | Easier derivation of Config with Sc...
+10. $     50 | zio/zio                   | ZIO.timeoutTO has tremendous overhe...
+
+📁 Results saved to:
+   /root/.bounty-hunter
+
+📊 Analysis:
+   New bounties: 0
+   High value (>=$200): 0
+
+✅ No new bounties to report
+
+💾 State saved. Next scan will detect new bounties.
+🎯 Bounty Hunter Monitor - Starting scan...
+============================================================
+
+============================================================
+📈 ALGORA BOUNTY MARKET INSIGHTS
+============================================================
+
+🏆 Top Projects by Historical Payout:
+   $143,000 | ZIO (Scala)
+   $ 15,000 | Golem (Rust)
+   $ 10,000 | Maybe (Ruby/TypeScript)
+   $  8,000 | Keep (Python/TypeScript)
+   $  5,000 | Screenpipe (Rust)
+
+💻 Tech Stack Demand:
+   20 open | $180 avg | Rust
+   14 open | $450 avg | Scala
+   11 open | $120 avg | JavaScript
+   10 open | $140 avg | TypeScript
+    5 open | $250 avg | Go
+    3 open | $200 avg | Python
+
+💡 Strategy Recommendations:
+   1. Scala (ZIO ecosystem) - Highest avg reward ($450)
+   2. Rust - Most open bounties (20)
+   3. Python - Good balance of demand & reward
+   4. Focus on YC companies (Keep, Screenpipe, Maybe)
+
+🚀 Starting scan at 2026-03-02 12:00:01
+============================================================
+
+📦 ZIO (Scala, $143,000 history)
+🔍 zio/zio
+   ✅ 22 bounties, $1,100 total
+🔍 zio/zio-http
+   ✅ 6 bounties, $300 total
+🔍 zio/zio-quill
+🔍 zio/zio-json
+   ✅ 2 bounties, $100 total
+🔍 zio/zio-kafka
+
+📦 Keep (Python/TypeScript, $8,000 history)
+🔍 keephq/keep
+   ✅ 1 bounties, $50 total
+
+📦 Screenpipe (Rust, $5,000 history)
+🔍 mediar-ai/screenpipe
+
+📦 Maybe (Ruby/TypeScript, $10,000 history)
+🔍 maybe-finance/maybe
+
+📦 Golem (Rust, $15,000 history)
+🔍 golemcloud/golem
+🔍 golemcloud/golem-cli
+
+📦 Unsiloed (Python, $3,000 history)
+🔍 unsiloed-ai/unsiloed
+
+============================================================
+📊 SCAN SUMMARY
+============================================================
+
+📈 Total Bounties: 31
+💰 Total Value: $1,550.00
+💵 Average: $50.00
+
+🔥 Top Bounties:
+------------------------------------------------------------
+ 1. $     50 | zio/zio                   | Create test suite that tests the co...
+ 2. $     50 | zio/zio                   | ZScheduler parks+unparks workers to...
+ 3. $     50 | zio/zio                   | Can Fiber(Runtime) and Promise be m...
+ 4. $     50 | zio/zio                   | Handling errors allows recovering f...
+ 5. $     50 | zio/zio                   | improved `Queue` shutdown functiona...
+ 6. $     50 | zio/zio                   | ZStreams buffer(1) is buffering 2....
+ 7. $     50 | zio/zio                   | Implement NIO scheduler for ZIO...
+ 8. $     50 | zio/zio                   | Parallelism level in `ZStream#mapZI...
+ 9. $     50 | zio/zio                   | Easier derivation of Config with Sc...
+10. $     50 | zio/zio                   | ZIO.timeoutTO has tremendous overhe...
+
+📁 Results saved to:
+   /root/.bounty-hunter
+
+📊 Analysis:
+   New bounties: 0
+   High value (>=$200): 0
+
+✅ No new bounties to report
+
+💾 State saved. Next scan will detect new bounties.
+[2026-03-04 21:49:01] Starting bounty scan...
+[2026-03-04 21:49:01] Error scanning zio/zio: Expecting value: line 1 column 1 (char 0)
+[2026-03-04 21:49:02] Error scanning zio/zio-http: Expecting value: line 1 column 1 (char 0)
+[2026-03-04 21:49:03] Error scanning zio/zio-json: Expecting value: line 1 column 1 (char 0)
+[2026-03-04 21:49:04] Error scanning zio/zio-quill: Expecting value: line 1 column 1 (char 0)
+[2026-03-04 21:49:04] Error scanning keephq/keep: Expecting value: line 1 column 1 (char 0)
+[2026-03-04 21:49:05] Error scanning golemcloud/golem: Expecting value: line 1 column 1 (char 0)
+[2026-03-04 21:49:05] Saved 0 bounties, total value: 
+[2026-03-04 21:49:05] Scan complete: 0 bounties, 
+[2026-03-04 21:49:31] Starting bounty scan...
+[2026-03-04 21:49:32] Error scanning zio/zio: Expecting value: line 1 column 1 (char 0)
+[2026-03-04 21:49:33] Error scanning zio/zio-http: Expecting value: line 1 column 1 (char 0)
+[2026-03-04 21:49:34] Error scanning zio/zio-json: Expecting value: line 1 column 1 (char 0)
+[2026-03-04 21:49:34] Error scanning zio/zio-quill: Expecting value: line 1 column 1 (char 0)
+[2026-03-04 21:49:35] Error scanning keephq/keep: Expecting value: line 1 column 1 (char 0)
+[2026-03-04 21:49:36] Error scanning golemcloud/golem: Expecting value: line 1 column 1 (char 0)
+[2026-03-04 21:49:36] Saved 0 bounties, total value: 
+[2026-03-04 21:49:36] Scan complete: 0 bounties, 
+[2026-03-04 21:50:52] Starting scan...
+[2026-03-04 21:50:52] Found 0 in zio/zio
+[2026-03-04 21:50:55] Found 0 in zio/zio-http
+[2026-03-04 21:50:57] Found 0 in zio/zio-json
+[2026-03-04 21:50:59] Found 0 in keephq/keep
+[2026-03-04 21:51:01] Done: 0 bounties, $0
+[2026-03-04 22:35:40] === Bounty Hunter Scan Started ===
+[2026-03-04 22:35:41] Found 0 bounties in zio/zio
+[2026-03-04 22:35:42] Found 0 bounties in zio/zio-http
+[2026-03-04 22:35:43] Found 0 bounties in zio/zio-json
+[2026-03-04 22:35:45] Found 0 bounties in zio/zio-quill
+[2026-03-04 22:35:46] Found 0 bounties in keephq/keep
+[2026-03-04 22:35:47] Found 0 bounties in golemcloud/golem
+[2026-03-04 22:35:49] API error 422 for mediar-ai/screenpipe
+[2026-03-04 22:35:50] Found 0 bounties in maybe-finance/maybe
+[2026-03-04 22:35:51] === Scan Complete: 0 bounties, $0 total ===
+[2026-03-04 22:36:44] === Bounty Hunter Scan Started ===
+[2026-03-04 22:36:47] Found 89 bounties in zio/zio
+[2026-03-04 22:36:50] Found 99 bounties in zio/zio-http
+[2026-03-04 22:36:51] Found 10 bounties in zio/zio-json
+[2026-03-04 22:36:56] Found 79 bounties in keephq/keep
+[2026-03-04 22:36:58] Found 39 bounties in golemcloud/golem
+[2026-03-04 22:37:00] Found 10 bounties in maybe-finance/maybe
+[2026-03-04 22:37:02] === Scan Complete: 326 bounties, $16300 total ===
+[2026-03-05 00:00:01] === Bounty Hunter Scan Started ===
+[2026-03-05 00:00:03] Found 89 bounties in zio/zio
+[2026-03-05 00:00:06] Found 99 bounties in zio/zio-http
+[2026-03-05 00:00:07] Found 10 bounties in zio/zio-json
+[2026-03-05 00:00:12] Found 79 bounties in keephq/keep
+[2026-03-05 00:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-05 00:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-05 00:00:18] === Scan Complete: 326 bounties, $16300 total ===
+[2026-03-05 00:00:01] === Bounty Hunter Scan Started ===
+[2026-03-05 00:00:03] Found 89 bounties in zio/zio
+[2026-03-05 00:00:06] Found 99 bounties in zio/zio-http
+[2026-03-05 00:00:07] Found 10 bounties in zio/zio-json
+[2026-03-05 00:00:12] Found 79 bounties in keephq/keep
+[2026-03-05 00:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-05 00:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-05 00:00:18] === Scan Complete: 326 bounties, $16300 total ===
+[2026-03-05 04:00:01] === Bounty Hunter Scan Started ===
+[2026-03-05 04:00:03] Found 89 bounties in zio/zio
+[2026-03-05 04:00:34] Error scanning zio/zio-http: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /search/issues?q=repo%3Azio%2Fzio-http+Bounty&state=open&per_page=100&sort=updated&order=desc (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f689b3b3490>, 'Connection to api.github.com timed out. (connect timeout=30)'))
+[2026-03-05 04:00:35] Found 10 bounties in zio/zio-json
+[2026-03-05 04:01:07] Error scanning keephq/keep: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=30)
+[2026-03-05 04:01:09] Found 39 bounties in golemcloud/golem
+[2026-03-05 04:01:11] Found 10 bounties in maybe-finance/maybe
+[2026-03-05 04:01:13] === Scan Complete: 148 bounties, $7400 total ===
+[2026-03-05 04:00:01] === Bounty Hunter Scan Started ===
+[2026-03-05 04:00:03] Found 89 bounties in zio/zio
+[2026-03-05 04:00:34] Error scanning zio/zio-http: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /search/issues?q=repo%3Azio%2Fzio-http+Bounty&state=open&per_page=100&sort=updated&order=desc (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f689b3b3490>, 'Connection to api.github.com timed out. (connect timeout=30)'))
+[2026-03-05 04:00:35] Found 10 bounties in zio/zio-json
+[2026-03-05 04:01:07] Error scanning keephq/keep: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=30)
+[2026-03-05 04:01:09] Found 39 bounties in golemcloud/golem
+[2026-03-05 04:01:11] Found 10 bounties in maybe-finance/maybe
+[2026-03-05 04:01:13] === Scan Complete: 148 bounties, $7400 total ===
+[2026-03-05 08:00:02] === Bounty Hunter Scan Started ===
+[2026-03-05 08:00:04] Found 89 bounties in zio/zio
+[2026-03-05 08:00:07] Found 99 bounties in zio/zio-http
+[2026-03-05 08:00:08] Found 10 bounties in zio/zio-json
+[2026-03-05 08:00:13] Found 79 bounties in keephq/keep
+[2026-03-05 08:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-05 08:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-05 08:00:19] === Scan Complete: 326 bounties, $16300 total ===
+[2026-03-05 08:00:02] === Bounty Hunter Scan Started ===
+[2026-03-05 08:00:04] Found 89 bounties in zio/zio
+[2026-03-05 08:00:07] Found 99 bounties in zio/zio-http
+[2026-03-05 08:00:08] Found 10 bounties in zio/zio-json
+[2026-03-05 08:00:13] Found 79 bounties in keephq/keep
+[2026-03-05 08:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-05 08:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-05 08:00:19] === Scan Complete: 326 bounties, $16300 total ===
+[2026-03-05 12:00:02] === Bounty Hunter Scan Started ===
+[2026-03-05 12:00:04] Found 89 bounties in zio/zio
+[2026-03-05 12:00:07] Found 99 bounties in zio/zio-http
+[2026-03-05 12:00:09] Found 10 bounties in zio/zio-json
+[2026-03-05 12:00:14] Found 79 bounties in keephq/keep
+[2026-03-05 12:00:16] Found 39 bounties in golemcloud/golem
+[2026-03-05 12:00:18] Found 10 bounties in maybe-finance/maybe
+[2026-03-05 12:00:21] === Scan Complete: 326 bounties, $16300 total ===
+[2026-03-05 12:00:02] === Bounty Hunter Scan Started ===
+[2026-03-05 12:00:04] Found 89 bounties in zio/zio
+[2026-03-05 12:00:07] Found 99 bounties in zio/zio-http
+[2026-03-05 12:00:09] Found 10 bounties in zio/zio-json
+[2026-03-05 12:00:14] Found 79 bounties in keephq/keep
+[2026-03-05 12:00:16] Found 39 bounties in golemcloud/golem
+[2026-03-05 12:00:18] Found 10 bounties in maybe-finance/maybe
+[2026-03-05 12:00:21] === Scan Complete: 326 bounties, $16300 total ===
+[2026-03-05 16:00:01] === Bounty Hunter Scan Started ===
+[2026-03-05 16:00:03] Found 89 bounties in zio/zio
+[2026-03-05 16:00:07] Found 99 bounties in zio/zio-http
+[2026-03-05 16:00:08] Found 10 bounties in zio/zio-json
+[2026-03-05 16:00:13] Found 79 bounties in keephq/keep
+[2026-03-05 16:00:16] Found 39 bounties in golemcloud/golem
+[2026-03-05 16:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-05 16:00:20] === Scan Complete: 326 bounties, $16300 total ===
+[2026-03-05 16:00:01] === Bounty Hunter Scan Started ===
+[2026-03-05 16:00:03] Found 89 bounties in zio/zio
+[2026-03-05 16:00:07] Found 99 bounties in zio/zio-http
+[2026-03-05 16:00:08] Found 10 bounties in zio/zio-json
+[2026-03-05 16:00:13] Found 79 bounties in keephq/keep
+[2026-03-05 16:00:16] Found 39 bounties in golemcloud/golem
+[2026-03-05 16:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-05 16:00:20] === Scan Complete: 326 bounties, $16300 total ===
+[2026-03-05 20:00:01] === Bounty Hunter Scan Started ===
+[2026-03-05 20:00:08] Found 89 bounties in zio/zio
+[2026-03-05 20:00:12] Found 99 bounties in zio/zio-http
+[2026-03-05 20:00:14] Found 10 bounties in zio/zio-json
+[2026-03-05 20:00:18] Found 79 bounties in keephq/keep
+[2026-03-05 20:00:21] Found 39 bounties in golemcloud/golem
+[2026-03-05 20:00:23] Found 10 bounties in maybe-finance/maybe
+[2026-03-05 20:00:30] === Scan Complete: 326 bounties, $16300 total ===
+[2026-03-05 20:00:01] === Bounty Hunter Scan Started ===
+[2026-03-05 20:00:08] Found 89 bounties in zio/zio
+[2026-03-05 20:00:12] Found 99 bounties in zio/zio-http
+[2026-03-05 20:00:14] Found 10 bounties in zio/zio-json
+[2026-03-05 20:00:18] Found 79 bounties in keephq/keep
+[2026-03-05 20:00:21] Found 39 bounties in golemcloud/golem
+[2026-03-05 20:00:23] Found 10 bounties in maybe-finance/maybe
+[2026-03-05 20:00:30] === Scan Complete: 326 bounties, $16300 total ===
+[2026-03-06 00:00:01] === Bounty Hunter Scan Started ===
+[2026-03-06 00:00:08] Found 89 bounties in zio/zio
+[2026-03-06 00:00:13] Found 99 bounties in zio/zio-http
+[2026-03-06 00:00:36] Found 10 bounties in zio/zio-json
+[2026-03-06 00:00:40] Found 79 bounties in keephq/keep
+[2026-03-06 00:00:43] Found 39 bounties in golemcloud/golem
+[2026-03-06 00:00:45] Found 10 bounties in maybe-finance/maybe
+[2026-03-06 00:00:47] === Scan Complete: 326 bounties, $16300 total ===
+[2026-03-06 00:00:01] === Bounty Hunter Scan Started ===
+[2026-03-06 00:00:08] Found 89 bounties in zio/zio
+[2026-03-06 00:00:13] Found 99 bounties in zio/zio-http
+[2026-03-06 00:00:36] Found 10 bounties in zio/zio-json
+[2026-03-06 00:00:40] Found 79 bounties in keephq/keep
+[2026-03-06 00:00:43] Found 39 bounties in golemcloud/golem
+[2026-03-06 00:00:45] Found 10 bounties in maybe-finance/maybe
+[2026-03-06 00:00:47] === Scan Complete: 326 bounties, $16300 total ===
+[2026-03-06 04:00:01] === Bounty Hunter Scan Started ===
+[2026-03-06 04:00:03] Found 89 bounties in zio/zio
+[2026-03-06 04:00:06] Found 99 bounties in zio/zio-http
+[2026-03-06 04:00:08] Found 10 bounties in zio/zio-json
+[2026-03-06 04:00:12] Found 79 bounties in keephq/keep
+[2026-03-06 04:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-06 04:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-06 04:00:18] === Scan Complete: 326 bounties, $16300 total ===
+[2026-03-06 04:00:01] === Bounty Hunter Scan Started ===
+[2026-03-06 04:00:03] Found 89 bounties in zio/zio
+[2026-03-06 04:00:06] Found 99 bounties in zio/zio-http
+[2026-03-06 04:00:08] Found 10 bounties in zio/zio-json
+[2026-03-06 04:00:12] Found 79 bounties in keephq/keep
+[2026-03-06 04:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-06 04:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-06 04:00:18] === Scan Complete: 326 bounties, $16300 total ===
+[2026-03-06 08:00:01] === Bounty Hunter Scan Started ===
+[2026-03-06 08:00:04] Found 89 bounties in zio/zio
+[2026-03-06 08:00:07] Found 99 bounties in zio/zio-http
+[2026-03-06 08:00:08] Found 10 bounties in zio/zio-json
+[2026-03-06 08:00:14] Found 71 bounties in keephq/keep
+[2026-03-06 08:00:16] Found 39 bounties in golemcloud/golem
+[2026-03-06 08:00:18] Found 10 bounties in maybe-finance/maybe
+[2026-03-06 08:00:20] === Scan Complete: 318 bounties, $15900 total ===
+[2026-03-06 08:00:01] === Bounty Hunter Scan Started ===
+[2026-03-06 08:00:04] Found 89 bounties in zio/zio
+[2026-03-06 08:00:07] Found 99 bounties in zio/zio-http
+[2026-03-06 08:00:08] Found 10 bounties in zio/zio-json
+[2026-03-06 08:00:14] Found 71 bounties in keephq/keep
+[2026-03-06 08:00:16] Found 39 bounties in golemcloud/golem
+[2026-03-06 08:00:18] Found 10 bounties in maybe-finance/maybe
+[2026-03-06 08:00:20] === Scan Complete: 318 bounties, $15900 total ===
+[2026-03-06 12:00:02] === Bounty Hunter Scan Started ===
+[2026-03-06 12:00:04] Found 89 bounties in zio/zio
+[2026-03-06 12:00:07] Found 99 bounties in zio/zio-http
+[2026-03-06 12:00:08] Found 10 bounties in zio/zio-json
+[2026-03-06 12:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-06 12:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-06 12:00:19] === Scan Complete: 247 bounties, $12350 total ===
+[2026-03-06 12:00:02] === Bounty Hunter Scan Started ===
+[2026-03-06 12:00:04] Found 89 bounties in zio/zio
+[2026-03-06 12:00:07] Found 99 bounties in zio/zio-http
+[2026-03-06 12:00:08] Found 10 bounties in zio/zio-json
+[2026-03-06 12:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-06 12:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-06 12:00:19] === Scan Complete: 247 bounties, $12350 total ===
+[2026-03-06 16:00:01] === Bounty Hunter Scan Started ===
+[2026-03-06 16:00:04] Found 89 bounties in zio/zio
+[2026-03-06 16:00:07] Found 99 bounties in zio/zio-http
+[2026-03-06 16:00:08] Found 10 bounties in zio/zio-json
+[2026-03-06 16:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-06 16:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-06 16:00:19] === Scan Complete: 247 bounties, $12350 total ===
+[2026-03-06 16:00:01] === Bounty Hunter Scan Started ===
+[2026-03-06 16:00:04] Found 89 bounties in zio/zio
+[2026-03-06 16:00:07] Found 99 bounties in zio/zio-http
+[2026-03-06 16:00:08] Found 10 bounties in zio/zio-json
+[2026-03-06 16:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-06 16:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-06 16:00:19] === Scan Complete: 247 bounties, $12350 total ===
+[2026-03-06 20:00:01] === Bounty Hunter Scan Started ===
+[2026-03-06 20:00:03] Found 89 bounties in zio/zio
+[2026-03-06 20:00:07] Found 99 bounties in zio/zio-http
+[2026-03-06 20:00:08] Found 10 bounties in zio/zio-json
+[2026-03-06 20:00:12] Found 1 bounties in keephq/keep
+[2026-03-06 20:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-06 20:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-06 20:00:19] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-06 20:00:01] === Bounty Hunter Scan Started ===
+[2026-03-06 20:00:03] Found 89 bounties in zio/zio
+[2026-03-06 20:00:07] Found 99 bounties in zio/zio-http
+[2026-03-06 20:00:08] Found 10 bounties in zio/zio-json
+[2026-03-06 20:00:12] Found 1 bounties in keephq/keep
+[2026-03-06 20:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-06 20:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-06 20:00:19] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-07 00:00:01] === Bounty Hunter Scan Started ===
+[2026-03-07 00:00:03] Found 89 bounties in zio/zio
+[2026-03-07 00:00:06] Found 99 bounties in zio/zio-http
+[2026-03-07 00:00:07] Found 10 bounties in zio/zio-json
+[2026-03-07 00:00:11] Found 1 bounties in keephq/keep
+[2026-03-07 00:00:13] Found 39 bounties in golemcloud/golem
+[2026-03-07 00:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-07 00:00:17] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-07 00:00:01] === Bounty Hunter Scan Started ===
+[2026-03-07 00:00:03] Found 89 bounties in zio/zio
+[2026-03-07 00:00:06] Found 99 bounties in zio/zio-http
+[2026-03-07 00:00:07] Found 10 bounties in zio/zio-json
+[2026-03-07 00:00:11] Found 1 bounties in keephq/keep
+[2026-03-07 00:00:13] Found 39 bounties in golemcloud/golem
+[2026-03-07 00:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-07 00:00:17] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-07 04:00:01] === Bounty Hunter Scan Started ===
+[2026-03-07 04:00:03] Found 89 bounties in zio/zio
+[2026-03-07 04:00:06] Found 99 bounties in zio/zio-http
+[2026-03-07 04:00:07] Found 10 bounties in zio/zio-json
+[2026-03-07 04:00:11] Found 1 bounties in keephq/keep
+[2026-03-07 04:00:13] Found 39 bounties in golemcloud/golem
+[2026-03-07 04:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-07 04:00:17] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-07 04:00:01] === Bounty Hunter Scan Started ===
+[2026-03-07 04:00:03] Found 89 bounties in zio/zio
+[2026-03-07 04:00:06] Found 99 bounties in zio/zio-http
+[2026-03-07 04:00:07] Found 10 bounties in zio/zio-json
+[2026-03-07 04:00:11] Found 1 bounties in keephq/keep
+[2026-03-07 04:00:13] Found 39 bounties in golemcloud/golem
+[2026-03-07 04:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-07 04:00:17] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-07 08:00:02] === Bounty Hunter Scan Started ===
+[2026-03-07 08:00:03] Found 89 bounties in zio/zio
+[2026-03-07 08:00:06] Found 99 bounties in zio/zio-http
+[2026-03-07 08:00:08] Found 10 bounties in zio/zio-json
+[2026-03-07 08:00:11] Found 1 bounties in keephq/keep
+[2026-03-07 08:00:13] Found 39 bounties in golemcloud/golem
+[2026-03-07 08:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-07 08:00:17] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-07 08:00:02] === Bounty Hunter Scan Started ===
+[2026-03-07 08:00:03] Found 89 bounties in zio/zio
+[2026-03-07 08:00:06] Found 99 bounties in zio/zio-http
+[2026-03-07 08:00:08] Found 10 bounties in zio/zio-json
+[2026-03-07 08:00:11] Found 1 bounties in keephq/keep
+[2026-03-07 08:00:13] Found 39 bounties in golemcloud/golem
+[2026-03-07 08:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-07 08:00:17] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-07 12:00:02] === Bounty Hunter Scan Started ===
+[2026-03-07 12:00:03] Found 89 bounties in zio/zio
+[2026-03-07 12:00:06] Found 99 bounties in zio/zio-http
+[2026-03-07 12:00:08] Found 10 bounties in zio/zio-json
+[2026-03-07 12:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-07 12:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-07 12:00:18] === Scan Complete: 247 bounties, $12350 total ===
+[2026-03-07 12:00:02] === Bounty Hunter Scan Started ===
+[2026-03-07 12:00:03] Found 89 bounties in zio/zio
+[2026-03-07 12:00:06] Found 99 bounties in zio/zio-http
+[2026-03-07 12:00:08] Found 10 bounties in zio/zio-json
+[2026-03-07 12:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-07 12:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-07 12:00:18] === Scan Complete: 247 bounties, $12350 total ===
+[2026-03-07 16:00:01] === Bounty Hunter Scan Started ===
+[2026-03-07 16:00:03] Found 89 bounties in zio/zio
+[2026-03-07 16:00:06] Found 99 bounties in zio/zio-http
+[2026-03-07 16:00:08] Found 10 bounties in zio/zio-json
+[2026-03-07 16:00:11] Found 1 bounties in keephq/keep
+[2026-03-07 16:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-07 16:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-07 16:00:18] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-07 16:00:01] === Bounty Hunter Scan Started ===
+[2026-03-07 16:00:03] Found 89 bounties in zio/zio
+[2026-03-07 16:00:06] Found 99 bounties in zio/zio-http
+[2026-03-07 16:00:08] Found 10 bounties in zio/zio-json
+[2026-03-07 16:00:11] Found 1 bounties in keephq/keep
+[2026-03-07 16:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-07 16:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-07 16:00:18] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-07 20:00:01] === Bounty Hunter Scan Started ===
+[2026-03-07 20:00:03] Found 89 bounties in zio/zio
+[2026-03-07 20:00:05] Found 99 bounties in zio/zio-http
+[2026-03-07 20:00:07] Found 10 bounties in zio/zio-json
+[2026-03-07 20:00:10] Found 1 bounties in keephq/keep
+[2026-03-07 20:00:13] Found 39 bounties in golemcloud/golem
+[2026-03-07 20:00:14] Found 10 bounties in maybe-finance/maybe
+[2026-03-07 20:00:17] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-07 20:00:01] === Bounty Hunter Scan Started ===
+[2026-03-07 20:00:03] Found 89 bounties in zio/zio
+[2026-03-07 20:00:05] Found 99 bounties in zio/zio-http
+[2026-03-07 20:00:07] Found 10 bounties in zio/zio-json
+[2026-03-07 20:00:10] Found 1 bounties in keephq/keep
+[2026-03-07 20:00:13] Found 39 bounties in golemcloud/golem
+[2026-03-07 20:00:14] Found 10 bounties in maybe-finance/maybe
+[2026-03-07 20:00:17] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-08 00:00:01] === Bounty Hunter Scan Started ===
+[2026-03-08 00:00:03] Found 89 bounties in zio/zio
+[2026-03-08 00:00:05] Found 99 bounties in zio/zio-http
+[2026-03-08 00:00:07] Found 10 bounties in zio/zio-json
+[2026-03-08 00:00:11] Found 1 bounties in keephq/keep
+[2026-03-08 00:00:13] Found 39 bounties in golemcloud/golem
+[2026-03-08 00:00:14] Found 10 bounties in maybe-finance/maybe
+[2026-03-08 00:00:17] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-08 00:00:01] === Bounty Hunter Scan Started ===
+[2026-03-08 00:00:03] Found 89 bounties in zio/zio
+[2026-03-08 00:00:05] Found 99 bounties in zio/zio-http
+[2026-03-08 00:00:07] Found 10 bounties in zio/zio-json
+[2026-03-08 00:00:11] Found 1 bounties in keephq/keep
+[2026-03-08 00:00:13] Found 39 bounties in golemcloud/golem
+[2026-03-08 00:00:14] Found 10 bounties in maybe-finance/maybe
+[2026-03-08 00:00:17] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-08 04:00:01] === Bounty Hunter Scan Started ===
+[2026-03-08 04:00:03] Found 89 bounties in zio/zio
+[2026-03-08 04:00:06] Found 99 bounties in zio/zio-http
+[2026-03-08 04:00:07] Found 10 bounties in zio/zio-json
+[2026-03-08 04:00:11] Found 1 bounties in keephq/keep
+[2026-03-08 04:00:13] Found 39 bounties in golemcloud/golem
+[2026-03-08 04:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-08 04:00:18] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-08 04:00:01] === Bounty Hunter Scan Started ===
+[2026-03-08 04:00:03] Found 89 bounties in zio/zio
+[2026-03-08 04:00:06] Found 99 bounties in zio/zio-http
+[2026-03-08 04:00:07] Found 10 bounties in zio/zio-json
+[2026-03-08 04:00:11] Found 1 bounties in keephq/keep
+[2026-03-08 04:00:13] Found 39 bounties in golemcloud/golem
+[2026-03-08 04:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-08 04:00:18] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-08 08:00:01] === Bounty Hunter Scan Started ===
+[2026-03-08 08:00:03] Found 89 bounties in zio/zio
+[2026-03-08 08:00:06] Found 99 bounties in zio/zio-http
+[2026-03-08 08:00:07] Found 10 bounties in zio/zio-json
+[2026-03-08 08:00:11] Found 1 bounties in keephq/keep
+[2026-03-08 08:00:18] Found 39 bounties in golemcloud/golem
+[2026-03-08 08:00:20] Found 10 bounties in maybe-finance/maybe
+[2026-03-08 08:00:23] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-08 08:00:01] === Bounty Hunter Scan Started ===
+[2026-03-08 08:00:03] Found 89 bounties in zio/zio
+[2026-03-08 08:00:06] Found 99 bounties in zio/zio-http
+[2026-03-08 08:00:07] Found 10 bounties in zio/zio-json
+[2026-03-08 08:00:11] Found 1 bounties in keephq/keep
+[2026-03-08 08:00:18] Found 39 bounties in golemcloud/golem
+[2026-03-08 08:00:20] Found 10 bounties in maybe-finance/maybe
+[2026-03-08 08:00:23] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-08 12:00:01] === Bounty Hunter Scan Started ===
+[2026-03-08 12:00:03] Found 89 bounties in zio/zio
+[2026-03-08 12:00:06] Found 99 bounties in zio/zio-http
+[2026-03-08 12:00:07] Found 10 bounties in zio/zio-json
+[2026-03-08 12:00:11] Found 1 bounties in keephq/keep
+[2026-03-08 12:00:13] Found 39 bounties in golemcloud/golem
+[2026-03-08 12:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-08 12:00:17] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-08 12:00:01] === Bounty Hunter Scan Started ===
+[2026-03-08 12:00:03] Found 89 bounties in zio/zio
+[2026-03-08 12:00:06] Found 99 bounties in zio/zio-http
+[2026-03-08 12:00:07] Found 10 bounties in zio/zio-json
+[2026-03-08 12:00:11] Found 1 bounties in keephq/keep
+[2026-03-08 12:00:13] Found 39 bounties in golemcloud/golem
+[2026-03-08 12:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-08 12:00:17] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-08 16:00:01] === Bounty Hunter Scan Started ===
+[2026-03-08 16:00:03] Found 89 bounties in zio/zio
+[2026-03-08 16:00:06] Found 99 bounties in zio/zio-http
+[2026-03-08 16:00:07] Found 10 bounties in zio/zio-json
+[2026-03-08 16:00:11] Found 1 bounties in keephq/keep
+[2026-03-08 16:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-08 16:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-08 16:00:18] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-08 16:00:01] === Bounty Hunter Scan Started ===
+[2026-03-08 16:00:03] Found 89 bounties in zio/zio
+[2026-03-08 16:00:06] Found 99 bounties in zio/zio-http
+[2026-03-08 16:00:07] Found 10 bounties in zio/zio-json
+[2026-03-08 16:00:11] Found 1 bounties in keephq/keep
+[2026-03-08 16:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-08 16:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-08 16:00:18] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-08 20:00:01] === Bounty Hunter Scan Started ===
+[2026-03-08 20:00:03] Found 89 bounties in zio/zio
+[2026-03-08 20:00:06] Found 99 bounties in zio/zio-http
+[2026-03-08 20:00:08] Found 10 bounties in zio/zio-json
+[2026-03-08 20:00:11] Found 1 bounties in keephq/keep
+[2026-03-08 20:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-08 20:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-08 20:00:17] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-08 20:00:01] === Bounty Hunter Scan Started ===
+[2026-03-08 20:00:03] Found 89 bounties in zio/zio
+[2026-03-08 20:00:06] Found 99 bounties in zio/zio-http
+[2026-03-08 20:00:08] Found 10 bounties in zio/zio-json
+[2026-03-08 20:00:11] Found 1 bounties in keephq/keep
+[2026-03-08 20:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-08 20:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-08 20:00:17] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-09 00:00:02] === Bounty Hunter Scan Started ===
+[2026-03-09 00:00:04] Found 89 bounties in zio/zio
+[2026-03-09 00:00:07] Found 99 bounties in zio/zio-http
+[2026-03-09 00:00:08] Found 10 bounties in zio/zio-json
+[2026-03-09 00:00:12] Found 1 bounties in keephq/keep
+[2026-03-09 00:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-09 00:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-09 00:00:18] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-09 00:00:02] === Bounty Hunter Scan Started ===
+[2026-03-09 00:00:04] Found 89 bounties in zio/zio
+[2026-03-09 00:00:07] Found 99 bounties in zio/zio-http
+[2026-03-09 00:00:08] Found 10 bounties in zio/zio-json
+[2026-03-09 00:00:12] Found 1 bounties in keephq/keep
+[2026-03-09 00:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-09 00:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-09 00:00:18] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-09 04:00:01] === Bounty Hunter Scan Started ===
+[2026-03-09 04:00:03] Found 89 bounties in zio/zio
+[2026-03-09 04:00:06] Found 99 bounties in zio/zio-http
+[2026-03-09 04:00:07] Found 10 bounties in zio/zio-json
+[2026-03-09 04:00:11] Found 1 bounties in keephq/keep
+[2026-03-09 04:00:13] Found 39 bounties in golemcloud/golem
+[2026-03-09 04:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-09 04:00:17] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-09 04:00:01] === Bounty Hunter Scan Started ===
+[2026-03-09 04:00:03] Found 89 bounties in zio/zio
+[2026-03-09 04:00:06] Found 99 bounties in zio/zio-http
+[2026-03-09 04:00:07] Found 10 bounties in zio/zio-json
+[2026-03-09 04:00:11] Found 1 bounties in keephq/keep
+[2026-03-09 04:00:13] Found 39 bounties in golemcloud/golem
+[2026-03-09 04:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-09 04:00:17] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-09 06:43:58] === Bounty Hunter Scan Started ===
+[2026-03-09 06:44:00] Found 89 bounties in zio/zio
+[2026-03-09 06:44:02] Found 99 bounties in zio/zio-http
+[2026-03-09 06:44:04] Found 10 bounties in zio/zio-json
+[2026-03-09 06:44:07] Found 1 bounties in keephq/keep
+[2026-03-09 06:44:10] Found 39 bounties in golemcloud/golem
+[2026-03-09 06:44:11] Found 10 bounties in maybe-finance/maybe
+[2026-03-09 06:44:14] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-09 08:00:02] === Bounty Hunter Scan Started ===
+[2026-03-09 08:00:04] Found 89 bounties in zio/zio
+[2026-03-09 08:00:07] Found 99 bounties in zio/zio-http
+[2026-03-09 08:00:08] Found 10 bounties in zio/zio-json
+[2026-03-09 08:00:12] Found 1 bounties in keephq/keep
+[2026-03-09 08:00:17] Found 39 bounties in golemcloud/golem
+[2026-03-09 08:00:19] Found 10 bounties in maybe-finance/maybe
+[2026-03-09 08:00:21] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-09 08:00:02] === Bounty Hunter Scan Started ===
+[2026-03-09 08:00:04] Found 89 bounties in zio/zio
+[2026-03-09 08:00:07] Found 99 bounties in zio/zio-http
+[2026-03-09 08:00:08] Found 10 bounties in zio/zio-json
+[2026-03-09 08:00:12] Found 1 bounties in keephq/keep
+[2026-03-09 08:00:17] Found 39 bounties in golemcloud/golem
+[2026-03-09 08:00:19] Found 10 bounties in maybe-finance/maybe
+[2026-03-09 08:00:21] === Scan Complete: 248 bounties, $12400 total ===
+[2026-03-09 11:28:38] === Bounty Hunter Scan Started ===
+[2026-03-09 11:28:41] Found 90 bounties in zio/zio
+[2026-03-09 11:28:44] Found 99 bounties in zio/zio-http
+[2026-03-09 11:28:46] Found 10 bounties in zio/zio-json
+[2026-03-09 11:28:50] Found 1 bounties in keephq/keep
+[2026-03-09 11:28:52] Found 39 bounties in golemcloud/golem
+[2026-03-09 11:28:54] Found 10 bounties in maybe-finance/maybe
+[2026-03-09 11:28:56] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-09 12:00:01] === Bounty Hunter Scan Started ===
+[2026-03-09 12:00:03] Found 90 bounties in zio/zio
+[2026-03-09 12:00:06] Found 99 bounties in zio/zio-http
+[2026-03-09 12:00:08] Found 10 bounties in zio/zio-json
+[2026-03-09 12:00:11] Found 1 bounties in keephq/keep
+[2026-03-09 12:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-09 12:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-09 12:00:18] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-09 12:00:01] === Bounty Hunter Scan Started ===
+[2026-03-09 12:00:03] Found 90 bounties in zio/zio
+[2026-03-09 12:00:06] Found 99 bounties in zio/zio-http
+[2026-03-09 12:00:08] Found 10 bounties in zio/zio-json
+[2026-03-09 12:00:11] Found 1 bounties in keephq/keep
+[2026-03-09 12:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-09 12:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-09 12:00:18] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-09 14:43:57] === Bounty Hunter Scan Started ===
+[2026-03-09 14:44:00] Found 90 bounties in zio/zio
+[2026-03-09 14:44:03] Found 99 bounties in zio/zio-http
+[2026-03-09 14:44:04] Found 10 bounties in zio/zio-json
+[2026-03-09 14:44:09] Found 1 bounties in keephq/keep
+[2026-03-09 14:44:11] Found 39 bounties in golemcloud/golem
+[2026-03-09 14:44:13] Found 10 bounties in maybe-finance/maybe
+[2026-03-09 14:44:16] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-09 16:00:01] === Bounty Hunter Scan Started ===
+[2026-03-09 16:00:03] Found 90 bounties in zio/zio
+[2026-03-09 16:00:07] Found 99 bounties in zio/zio-http
+[2026-03-09 16:00:09] Found 10 bounties in zio/zio-json
+[2026-03-09 16:00:13] Found 1 bounties in keephq/keep
+[2026-03-09 16:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-09 16:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-09 16:00:19] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-09 16:00:01] === Bounty Hunter Scan Started ===
+[2026-03-09 16:00:03] Found 90 bounties in zio/zio
+[2026-03-09 16:00:07] Found 99 bounties in zio/zio-http
+[2026-03-09 16:00:09] Found 10 bounties in zio/zio-json
+[2026-03-09 16:00:13] Found 1 bounties in keephq/keep
+[2026-03-09 16:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-09 16:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-09 16:00:19] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-09 20:00:02] === Bounty Hunter Scan Started ===
+[2026-03-09 20:00:04] Found 90 bounties in zio/zio
+[2026-03-09 20:00:07] Found 99 bounties in zio/zio-http
+[2026-03-09 20:00:08] Found 10 bounties in zio/zio-json
+[2026-03-09 20:00:12] Found 1 bounties in keephq/keep
+[2026-03-09 20:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-09 20:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-09 20:00:19] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-09 20:00:02] === Bounty Hunter Scan Started ===
+[2026-03-09 20:00:04] Found 90 bounties in zio/zio
+[2026-03-09 20:00:07] Found 99 bounties in zio/zio-http
+[2026-03-09 20:00:08] Found 10 bounties in zio/zio-json
+[2026-03-09 20:00:12] Found 1 bounties in keephq/keep
+[2026-03-09 20:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-09 20:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-09 20:00:19] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-10 00:00:01] === Bounty Hunter Scan Started ===
+[2026-03-10 00:00:03] Found 90 bounties in zio/zio
+[2026-03-10 00:00:06] Found 99 bounties in zio/zio-http
+[2026-03-10 00:00:08] Found 10 bounties in zio/zio-json
+[2026-03-10 00:00:12] Found 1 bounties in keephq/keep
+[2026-03-10 00:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-10 00:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-10 00:00:19] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-10 00:00:01] === Bounty Hunter Scan Started ===
+[2026-03-10 00:00:03] Found 90 bounties in zio/zio
+[2026-03-10 00:00:06] Found 99 bounties in zio/zio-http
+[2026-03-10 00:00:08] Found 10 bounties in zio/zio-json
+[2026-03-10 00:00:12] Found 1 bounties in keephq/keep
+[2026-03-10 00:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-10 00:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-10 00:00:19] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-10 04:00:01] === Bounty Hunter Scan Started ===
+[2026-03-10 04:00:03] Found 90 bounties in zio/zio
+[2026-03-10 04:00:06] Found 99 bounties in zio/zio-http
+[2026-03-10 04:00:08] Found 10 bounties in zio/zio-json
+[2026-03-10 04:00:11] Found 1 bounties in keephq/keep
+[2026-03-10 04:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-10 04:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-10 04:00:18] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-10 04:00:01] === Bounty Hunter Scan Started ===
+[2026-03-10 04:00:03] Found 90 bounties in zio/zio
+[2026-03-10 04:00:06] Found 99 bounties in zio/zio-http
+[2026-03-10 04:00:08] Found 10 bounties in zio/zio-json
+[2026-03-10 04:00:11] Found 1 bounties in keephq/keep
+[2026-03-10 04:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-10 04:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-10 04:00:18] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-10 08:00:01] === Bounty Hunter Scan Started ===
+[2026-03-10 08:00:03] Found 90 bounties in zio/zio
+[2026-03-10 08:00:07] Found 99 bounties in zio/zio-http
+[2026-03-10 08:00:08] Found 10 bounties in zio/zio-json
+[2026-03-10 08:00:12] Found 1 bounties in keephq/keep
+[2026-03-10 08:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-10 08:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-10 08:00:18] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-10 08:00:01] === Bounty Hunter Scan Started ===
+[2026-03-10 08:00:03] Found 90 bounties in zio/zio
+[2026-03-10 08:00:07] Found 99 bounties in zio/zio-http
+[2026-03-10 08:00:08] Found 10 bounties in zio/zio-json
+[2026-03-10 08:00:12] Found 1 bounties in keephq/keep
+[2026-03-10 08:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-10 08:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-10 08:00:18] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-10 12:00:02] === Bounty Hunter Scan Started ===
+[2026-03-10 12:00:04] Found 90 bounties in zio/zio
+[2026-03-10 12:00:07] Found 99 bounties in zio/zio-http
+[2026-03-10 12:00:08] Found 10 bounties in zio/zio-json
+[2026-03-10 12:00:12] Found 1 bounties in keephq/keep
+[2026-03-10 12:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-10 12:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-10 12:00:19] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-10 12:00:02] === Bounty Hunter Scan Started ===
+[2026-03-10 12:00:04] Found 90 bounties in zio/zio
+[2026-03-10 12:00:07] Found 99 bounties in zio/zio-http
+[2026-03-10 12:00:08] Found 10 bounties in zio/zio-json
+[2026-03-10 12:00:12] Found 1 bounties in keephq/keep
+[2026-03-10 12:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-10 12:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-10 12:00:19] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-10 12:30:32] === Bounty Hunter Scan Started ===
+[2026-03-10 12:30:34] Found 90 bounties in zio/zio
+[2026-03-10 12:30:37] Found 99 bounties in zio/zio-http
+[2026-03-10 12:30:39] Found 10 bounties in zio/zio-json
+[2026-03-10 12:30:43] Found 1 bounties in keephq/keep
+[2026-03-10 12:30:45] Found 39 bounties in golemcloud/golem
+[2026-03-10 12:30:46] Found 10 bounties in maybe-finance/maybe
+[2026-03-10 12:30:49] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-10 16:00:01] === Bounty Hunter Scan Started ===
+[2026-03-10 16:00:04] Found 90 bounties in zio/zio
+[2026-03-10 16:00:07] Found 99 bounties in zio/zio-http
+[2026-03-10 16:00:09] Found 10 bounties in zio/zio-json
+[2026-03-10 16:00:13] Found 1 bounties in keephq/keep
+[2026-03-10 16:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-10 16:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-10 16:00:20] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-10 16:00:01] === Bounty Hunter Scan Started ===
+[2026-03-10 16:00:04] Found 90 bounties in zio/zio
+[2026-03-10 16:00:07] Found 99 bounties in zio/zio-http
+[2026-03-10 16:00:09] Found 10 bounties in zio/zio-json
+[2026-03-10 16:00:13] Found 1 bounties in keephq/keep
+[2026-03-10 16:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-10 16:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-10 16:00:20] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-10 19:47:36] === Bounty Hunter Scan Started ===
+[2026-03-10 19:47:38] Found 90 bounties in zio/zio
+[2026-03-10 19:47:40] Found 99 bounties in zio/zio-http
+[2026-03-10 19:47:42] Found 10 bounties in zio/zio-json
+[2026-03-10 19:47:46] Found 1 bounties in keephq/keep
+[2026-03-10 19:47:48] Found 39 bounties in golemcloud/golem
+[2026-03-10 19:47:50] Found 10 bounties in maybe-finance/maybe
+[2026-03-10 19:47:52] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-10 20:00:02] === Bounty Hunter Scan Started ===
+[2026-03-10 20:00:05] Found 90 bounties in zio/zio
+[2026-03-10 20:00:08] Found 99 bounties in zio/zio-http
+[2026-03-10 20:00:10] Found 10 bounties in zio/zio-json
+[2026-03-10 20:00:14] Found 1 bounties in keephq/keep
+[2026-03-10 20:00:17] Found 39 bounties in golemcloud/golem
+[2026-03-10 20:00:18] Found 10 bounties in maybe-finance/maybe
+[2026-03-10 20:00:21] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-10 20:00:02] === Bounty Hunter Scan Started ===
+[2026-03-10 20:00:05] Found 90 bounties in zio/zio
+[2026-03-10 20:00:08] Found 99 bounties in zio/zio-http
+[2026-03-10 20:00:10] Found 10 bounties in zio/zio-json
+[2026-03-10 20:00:14] Found 1 bounties in keephq/keep
+[2026-03-10 20:00:17] Found 39 bounties in golemcloud/golem
+[2026-03-10 20:00:18] Found 10 bounties in maybe-finance/maybe
+[2026-03-10 20:00:21] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-11 00:00:01] === Bounty Hunter Scan Started ===
+[2026-03-11 00:00:03] Found 90 bounties in zio/zio
+[2026-03-11 00:00:06] Found 99 bounties in zio/zio-http
+[2026-03-11 00:00:08] Found 10 bounties in zio/zio-json
+[2026-03-11 00:00:11] Found 1 bounties in keephq/keep
+[2026-03-11 00:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-11 00:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-11 00:00:18] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-11 00:00:01] === Bounty Hunter Scan Started ===
+[2026-03-11 00:00:03] Found 90 bounties in zio/zio
+[2026-03-11 00:00:06] Found 99 bounties in zio/zio-http
+[2026-03-11 00:00:08] Found 10 bounties in zio/zio-json
+[2026-03-11 00:00:11] Found 1 bounties in keephq/keep
+[2026-03-11 00:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-11 00:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-11 00:00:18] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-11 03:05:55] === Bounty Hunter Scan Started ===
+[2026-03-11 03:05:57] Found 90 bounties in zio/zio
+[2026-03-11 03:06:00] Found 99 bounties in zio/zio-http
+[2026-03-11 03:06:02] Found 10 bounties in zio/zio-json
+[2026-03-11 03:06:05] Found 1 bounties in keephq/keep
+[2026-03-11 03:06:08] Found 39 bounties in golemcloud/golem
+[2026-03-11 03:06:10] Found 10 bounties in maybe-finance/maybe
+[2026-03-11 03:06:12] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-11 04:00:01] === Bounty Hunter Scan Started ===
+[2026-03-11 04:00:03] Found 90 bounties in zio/zio
+[2026-03-11 04:00:06] Found 99 bounties in zio/zio-http
+[2026-03-11 04:00:08] Found 10 bounties in zio/zio-json
+[2026-03-11 04:00:12] Found 1 bounties in keephq/keep
+[2026-03-11 04:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-11 04:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-11 04:00:18] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-11 04:00:01] === Bounty Hunter Scan Started ===
+[2026-03-11 04:00:03] Found 90 bounties in zio/zio
+[2026-03-11 04:00:06] Found 99 bounties in zio/zio-http
+[2026-03-11 04:00:08] Found 10 bounties in zio/zio-json
+[2026-03-11 04:00:12] Found 1 bounties in keephq/keep
+[2026-03-11 04:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-11 04:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-11 04:00:18] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-11 08:00:01] === Bounty Hunter Scan Started ===
+[2026-03-11 08:00:03] Found 90 bounties in zio/zio
+[2026-03-11 08:00:07] Found 99 bounties in zio/zio-http
+[2026-03-11 08:00:08] Found 10 bounties in zio/zio-json
+[2026-03-11 08:00:13] Found 1 bounties in keephq/keep
+[2026-03-11 08:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-11 08:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-11 08:00:19] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-11 08:00:01] === Bounty Hunter Scan Started ===
+[2026-03-11 08:00:03] Found 90 bounties in zio/zio
+[2026-03-11 08:00:07] Found 99 bounties in zio/zio-http
+[2026-03-11 08:00:08] Found 10 bounties in zio/zio-json
+[2026-03-11 08:00:13] Found 1 bounties in keephq/keep
+[2026-03-11 08:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-11 08:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-11 08:00:19] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-11 12:00:02] === Bounty Hunter Scan Started ===
+[2026-03-11 12:00:04] Found 90 bounties in zio/zio
+[2026-03-11 12:00:07] Found 99 bounties in zio/zio-http
+[2026-03-11 12:00:09] Found 10 bounties in zio/zio-json
+[2026-03-11 12:00:13] Found 1 bounties in keephq/keep
+[2026-03-11 12:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-11 12:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-11 12:00:19] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-11 12:00:02] === Bounty Hunter Scan Started ===
+[2026-03-11 12:00:04] Found 90 bounties in zio/zio
+[2026-03-11 12:00:07] Found 99 bounties in zio/zio-http
+[2026-03-11 12:00:09] Found 10 bounties in zio/zio-json
+[2026-03-11 12:00:13] Found 1 bounties in keephq/keep
+[2026-03-11 12:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-11 12:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-11 12:00:19] === Scan Complete: 249 bounties, $12450 total ===
+[2026-03-11 16:00:01] === Bounty Hunter Scan Started ===
+[2026-03-11 16:00:04] Found 88 bounties in zio/zio
+[2026-03-11 16:00:07] Found 99 bounties in zio/zio-http
+[2026-03-11 16:00:09] Found 10 bounties in zio/zio-json
+[2026-03-11 16:00:13] Found 1 bounties in keephq/keep
+[2026-03-11 16:00:16] Found 39 bounties in golemcloud/golem
+[2026-03-11 16:00:18] Found 10 bounties in maybe-finance/maybe
+[2026-03-11 16:00:20] === Scan Complete: 247 bounties, $12350 total ===
+[2026-03-11 16:00:01] === Bounty Hunter Scan Started ===
+[2026-03-11 16:00:04] Found 88 bounties in zio/zio
+[2026-03-11 16:00:07] Found 99 bounties in zio/zio-http
+[2026-03-11 16:00:09] Found 10 bounties in zio/zio-json
+[2026-03-11 16:00:13] Found 1 bounties in keephq/keep
+[2026-03-11 16:00:16] Found 39 bounties in golemcloud/golem
+[2026-03-11 16:00:18] Found 10 bounties in maybe-finance/maybe
+[2026-03-11 16:00:20] === Scan Complete: 247 bounties, $12350 total ===
+[2026-03-11 20:00:01] === Bounty Hunter Scan Started ===
+[2026-03-11 20:00:03] Found 88 bounties in zio/zio
+[2026-03-11 20:00:07] Found 99 bounties in zio/zio-http
+[2026-03-11 20:00:08] Found 10 bounties in zio/zio-json
+[2026-03-11 20:00:12] Found 1 bounties in keephq/keep
+[2026-03-11 20:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-11 20:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-11 20:00:19] === Scan Complete: 247 bounties, $12350 total ===
+[2026-03-11 20:00:01] === Bounty Hunter Scan Started ===
+[2026-03-11 20:00:03] Found 88 bounties in zio/zio
+[2026-03-11 20:00:07] Found 99 bounties in zio/zio-http
+[2026-03-11 20:00:08] Found 10 bounties in zio/zio-json
+[2026-03-11 20:00:12] Found 1 bounties in keephq/keep
+[2026-03-11 20:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-11 20:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-11 20:00:19] === Scan Complete: 247 bounties, $12350 total ===
+[2026-03-12 00:00:01] === Bounty Hunter Scan Started ===
+[2026-03-12 00:00:03] Found 88 bounties in zio/zio
+[2026-03-12 00:00:06] Found 99 bounties in zio/zio-http
+[2026-03-12 00:00:08] Found 10 bounties in zio/zio-json
+[2026-03-12 00:00:11] Found 1 bounties in keephq/keep
+[2026-03-12 00:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-12 00:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-12 00:00:18] === Scan Complete: 247 bounties, $12350 total ===
+[2026-03-12 00:00:01] === Bounty Hunter Scan Started ===
+[2026-03-12 00:00:03] Found 88 bounties in zio/zio
+[2026-03-12 00:00:06] Found 99 bounties in zio/zio-http
+[2026-03-12 00:00:08] Found 10 bounties in zio/zio-json
+[2026-03-12 00:00:11] Found 1 bounties in keephq/keep
+[2026-03-12 00:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-12 00:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-12 00:00:18] === Scan Complete: 247 bounties, $12350 total ===
+[2026-03-12 04:00:01] === Bounty Hunter Scan Started ===
+[2026-03-12 04:00:03] Found 88 bounties in zio/zio
+[2026-03-12 04:00:08] Found 99 bounties in zio/zio-http
+[2026-03-12 04:00:10] Found 10 bounties in zio/zio-json
+[2026-03-12 04:00:14] Found 1 bounties in keephq/keep
+[2026-03-12 04:00:16] Found 39 bounties in golemcloud/golem
+[2026-03-12 04:00:18] Found 10 bounties in maybe-finance/maybe
+[2026-03-12 04:00:20] === Scan Complete: 247 bounties, $12350 total ===
+[2026-03-12 04:00:01] === Bounty Hunter Scan Started ===
+[2026-03-12 04:00:03] Found 88 bounties in zio/zio
+[2026-03-12 04:00:08] Found 99 bounties in zio/zio-http
+[2026-03-12 04:00:10] Found 10 bounties in zio/zio-json
+[2026-03-12 04:00:14] Found 1 bounties in keephq/keep
+[2026-03-12 04:00:16] Found 39 bounties in golemcloud/golem
+[2026-03-12 04:00:18] Found 10 bounties in maybe-finance/maybe
+[2026-03-12 04:00:20] === Scan Complete: 247 bounties, $12350 total ===
+[2026-03-12 05:26:00] === Bounty Hunter Scan Started ===
+[2026-03-12 05:26:02] Found 88 bounties in zio/zio
+[2026-03-12 05:26:05] Found 99 bounties in zio/zio-http
+[2026-03-12 05:26:07] Found 10 bounties in zio/zio-json
+[2026-03-12 05:26:11] Found 1 bounties in keephq/keep
+[2026-03-12 05:26:13] Found 39 bounties in golemcloud/golem
+[2026-03-12 05:26:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-12 05:26:17] === Scan Complete: 247 bounties, $12350 total ===
+[2026-03-12 08:00:02] === Bounty Hunter Scan Started ===
+[2026-03-12 08:00:04] Found 87 bounties in zio/zio
+[2026-03-12 08:00:07] Found 99 bounties in zio/zio-http
+[2026-03-12 08:00:09] Found 10 bounties in zio/zio-json
+[2026-03-12 08:00:13] Found 1 bounties in keephq/keep
+[2026-03-12 08:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-12 08:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-12 08:00:19] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-12 08:00:02] === Bounty Hunter Scan Started ===
+[2026-03-12 08:00:04] Found 87 bounties in zio/zio
+[2026-03-12 08:00:07] Found 99 bounties in zio/zio-http
+[2026-03-12 08:00:09] Found 10 bounties in zio/zio-json
+[2026-03-12 08:00:13] Found 1 bounties in keephq/keep
+[2026-03-12 08:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-12 08:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-12 08:00:19] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-12 12:00:01] === Bounty Hunter Scan Started ===
+[2026-03-12 12:00:04] Found 87 bounties in zio/zio
+[2026-03-12 12:00:07] Found 99 bounties in zio/zio-http
+[2026-03-12 12:00:09] Found 10 bounties in zio/zio-json
+[2026-03-12 12:00:13] Found 1 bounties in keephq/keep
+[2026-03-12 12:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-12 12:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-12 12:00:19] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-12 12:00:01] === Bounty Hunter Scan Started ===
+[2026-03-12 12:00:04] Found 87 bounties in zio/zio
+[2026-03-12 12:00:07] Found 99 bounties in zio/zio-http
+[2026-03-12 12:00:09] Found 10 bounties in zio/zio-json
+[2026-03-12 12:00:13] Found 1 bounties in keephq/keep
+[2026-03-12 12:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-12 12:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-12 12:00:19] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-12 16:00:01] === Bounty Hunter Scan Started ===
+[2026-03-12 16:00:03] Found 87 bounties in zio/zio
+[2026-03-12 16:00:07] Found 99 bounties in zio/zio-http
+[2026-03-12 16:00:09] Found 10 bounties in zio/zio-json
+[2026-03-12 16:00:13] Found 1 bounties in keephq/keep
+[2026-03-12 16:00:16] Found 39 bounties in golemcloud/golem
+[2026-03-12 16:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-12 16:00:20] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-12 16:00:01] === Bounty Hunter Scan Started ===
+[2026-03-12 16:00:03] Found 87 bounties in zio/zio
+[2026-03-12 16:00:07] Found 99 bounties in zio/zio-http
+[2026-03-12 16:00:09] Found 10 bounties in zio/zio-json
+[2026-03-12 16:00:13] Found 1 bounties in keephq/keep
+[2026-03-12 16:00:16] Found 39 bounties in golemcloud/golem
+[2026-03-12 16:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-12 16:00:20] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-12 20:00:01] === Bounty Hunter Scan Started ===
+[2026-03-12 20:00:03] Found 87 bounties in zio/zio
+[2026-03-12 20:00:06] Found 99 bounties in zio/zio-http
+[2026-03-12 20:00:08] Found 10 bounties in zio/zio-json
+[2026-03-12 20:00:12] Found 1 bounties in keephq/keep
+[2026-03-12 20:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-12 20:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-12 20:00:19] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-12 20:00:01] === Bounty Hunter Scan Started ===
+[2026-03-12 20:00:03] Found 87 bounties in zio/zio
+[2026-03-12 20:00:06] Found 99 bounties in zio/zio-http
+[2026-03-12 20:00:08] Found 10 bounties in zio/zio-json
+[2026-03-12 20:00:12] Found 1 bounties in keephq/keep
+[2026-03-12 20:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-12 20:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-12 20:00:19] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-13 00:00:01] === Bounty Hunter Scan Started ===
+[2026-03-13 00:00:03] Found 87 bounties in zio/zio
+[2026-03-13 00:00:06] Found 99 bounties in zio/zio-http
+[2026-03-13 00:00:08] Found 10 bounties in zio/zio-json
+[2026-03-13 00:00:11] Found 1 bounties in keephq/keep
+[2026-03-13 00:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-13 00:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-13 00:00:18] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-13 00:00:01] === Bounty Hunter Scan Started ===
+[2026-03-13 00:00:03] Found 87 bounties in zio/zio
+[2026-03-13 00:00:06] Found 99 bounties in zio/zio-http
+[2026-03-13 00:00:08] Found 10 bounties in zio/zio-json
+[2026-03-13 00:00:11] Found 1 bounties in keephq/keep
+[2026-03-13 00:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-13 00:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-13 00:00:18] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-13 04:00:01] === Bounty Hunter Scan Started ===
+[2026-03-13 04:00:03] Found 87 bounties in zio/zio
+[2026-03-13 04:00:06] Found 99 bounties in zio/zio-http
+[2026-03-13 04:00:08] Found 10 bounties in zio/zio-json
+[2026-03-13 04:00:12] Found 1 bounties in keephq/keep
+[2026-03-13 04:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-13 04:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-13 04:00:18] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-13 04:00:01] === Bounty Hunter Scan Started ===
+[2026-03-13 04:00:03] Found 87 bounties in zio/zio
+[2026-03-13 04:00:06] Found 99 bounties in zio/zio-http
+[2026-03-13 04:00:08] Found 10 bounties in zio/zio-json
+[2026-03-13 04:00:12] Found 1 bounties in keephq/keep
+[2026-03-13 04:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-13 04:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-13 04:00:18] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-13 08:00:01] === Bounty Hunter Scan Started ===
+[2026-03-13 08:00:03] Found 87 bounties in zio/zio
+[2026-03-13 08:00:08] Found 99 bounties in zio/zio-http
+[2026-03-13 08:00:09] Found 10 bounties in zio/zio-json
+[2026-03-13 08:00:13] Found 1 bounties in keephq/keep
+[2026-03-13 08:00:16] Found 39 bounties in golemcloud/golem
+[2026-03-13 08:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-13 08:00:20] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-13 08:00:01] === Bounty Hunter Scan Started ===
+[2026-03-13 08:00:03] Found 87 bounties in zio/zio
+[2026-03-13 08:00:08] Found 99 bounties in zio/zio-http
+[2026-03-13 08:00:09] Found 10 bounties in zio/zio-json
+[2026-03-13 08:00:13] Found 1 bounties in keephq/keep
+[2026-03-13 08:00:16] Found 39 bounties in golemcloud/golem
+[2026-03-13 08:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-13 08:00:20] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-13 12:00:01] === Bounty Hunter Scan Started ===
+[2026-03-13 12:00:03] Found 87 bounties in zio/zio
+[2026-03-13 12:00:08] Found 99 bounties in zio/zio-http
+[2026-03-13 12:00:10] Found 10 bounties in zio/zio-json
+[2026-03-13 12:00:14] Found 1 bounties in keephq/keep
+[2026-03-13 12:00:16] Found 39 bounties in golemcloud/golem
+[2026-03-13 12:00:18] Found 10 bounties in maybe-finance/maybe
+[2026-03-13 12:00:20] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-13 12:00:01] === Bounty Hunter Scan Started ===
+[2026-03-13 12:00:03] Found 87 bounties in zio/zio
+[2026-03-13 12:00:08] Found 99 bounties in zio/zio-http
+[2026-03-13 12:00:10] Found 10 bounties in zio/zio-json
+[2026-03-13 12:00:14] Found 1 bounties in keephq/keep
+[2026-03-13 12:00:16] Found 39 bounties in golemcloud/golem
+[2026-03-13 12:00:18] Found 10 bounties in maybe-finance/maybe
+[2026-03-13 12:00:20] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-13 16:00:01] === Bounty Hunter Scan Started ===
+[2026-03-13 16:00:04] Found 87 bounties in zio/zio
+[2026-03-13 16:00:08] Found 99 bounties in zio/zio-http
+[2026-03-13 16:00:10] Found 10 bounties in zio/zio-json
+[2026-03-13 16:00:14] Found 1 bounties in keephq/keep
+[2026-03-13 16:00:17] Found 39 bounties in golemcloud/golem
+[2026-03-13 16:00:19] Found 10 bounties in maybe-finance/maybe
+[2026-03-13 16:00:21] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-13 16:00:01] === Bounty Hunter Scan Started ===
+[2026-03-13 16:00:04] Found 87 bounties in zio/zio
+[2026-03-13 16:00:08] Found 99 bounties in zio/zio-http
+[2026-03-13 16:00:10] Found 10 bounties in zio/zio-json
+[2026-03-13 16:00:14] Found 1 bounties in keephq/keep
+[2026-03-13 16:00:17] Found 39 bounties in golemcloud/golem
+[2026-03-13 16:00:19] Found 10 bounties in maybe-finance/maybe
+[2026-03-13 16:00:21] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-13 20:00:01] === Bounty Hunter Scan Started ===
+[2026-03-13 20:00:03] Found 87 bounties in zio/zio
+[2026-03-13 20:00:06] Found 99 bounties in zio/zio-http
+[2026-03-13 20:00:07] Found 10 bounties in zio/zio-json
+[2026-03-13 20:00:11] Found 1 bounties in keephq/keep
+[2026-03-13 20:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-13 20:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-13 20:00:18] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-13 20:00:01] === Bounty Hunter Scan Started ===
+[2026-03-13 20:00:03] Found 87 bounties in zio/zio
+[2026-03-13 20:00:06] Found 99 bounties in zio/zio-http
+[2026-03-13 20:00:07] Found 10 bounties in zio/zio-json
+[2026-03-13 20:00:11] Found 1 bounties in keephq/keep
+[2026-03-13 20:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-13 20:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-13 20:00:18] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-14 00:00:01] === Bounty Hunter Scan Started ===
+[2026-03-14 00:00:03] Found 87 bounties in zio/zio
+[2026-03-14 00:00:06] Found 99 bounties in zio/zio-http
+[2026-03-14 00:00:08] Found 10 bounties in zio/zio-json
+[2026-03-14 00:00:12] Found 1 bounties in keephq/keep
+[2026-03-14 00:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-14 00:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-14 00:00:18] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-14 00:00:01] === Bounty Hunter Scan Started ===
+[2026-03-14 00:00:03] Found 87 bounties in zio/zio
+[2026-03-14 00:00:06] Found 99 bounties in zio/zio-http
+[2026-03-14 00:00:08] Found 10 bounties in zio/zio-json
+[2026-03-14 00:00:12] Found 1 bounties in keephq/keep
+[2026-03-14 00:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-14 00:00:16] Found 10 bounties in maybe-finance/maybe
+[2026-03-14 00:00:18] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-14 04:00:01] === Bounty Hunter Scan Started ===
+[2026-03-14 04:00:03] Found 87 bounties in zio/zio
+[2026-03-14 04:00:06] Found 99 bounties in zio/zio-http
+[2026-03-14 04:00:08] Found 10 bounties in zio/zio-json
+[2026-03-14 04:00:12] Found 1 bounties in keephq/keep
+[2026-03-14 04:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-14 04:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-14 04:00:18] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-14 04:00:01] === Bounty Hunter Scan Started ===
+[2026-03-14 04:00:03] Found 87 bounties in zio/zio
+[2026-03-14 04:00:06] Found 99 bounties in zio/zio-http
+[2026-03-14 04:00:08] Found 10 bounties in zio/zio-json
+[2026-03-14 04:00:12] Found 1 bounties in keephq/keep
+[2026-03-14 04:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-14 04:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-14 04:00:18] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-14 08:00:01] === Bounty Hunter Scan Started ===
+[2026-03-14 08:00:04] Found 87 bounties in zio/zio
+[2026-03-14 08:00:06] Found 99 bounties in zio/zio-http
+[2026-03-14 08:00:08] Found 10 bounties in zio/zio-json
+[2026-03-14 08:00:11] Found 1 bounties in keephq/keep
+[2026-03-14 08:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-14 08:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-14 08:00:18] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-14 08:00:01] === Bounty Hunter Scan Started ===
+[2026-03-14 08:00:04] Found 87 bounties in zio/zio
+[2026-03-14 08:00:06] Found 99 bounties in zio/zio-http
+[2026-03-14 08:00:08] Found 10 bounties in zio/zio-json
+[2026-03-14 08:00:11] Found 1 bounties in keephq/keep
+[2026-03-14 08:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-14 08:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-14 08:00:18] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-14 12:00:01] === Bounty Hunter Scan Started ===
+[2026-03-14 12:00:02] Found 87 bounties in zio/zio
+[2026-03-14 12:00:05] Found 99 bounties in zio/zio-http
+[2026-03-14 12:00:07] Found 10 bounties in zio/zio-json
+[2026-03-14 12:00:10] Found 1 bounties in keephq/keep
+[2026-03-14 12:00:13] Found 39 bounties in golemcloud/golem
+[2026-03-14 12:00:14] Found 10 bounties in maybe-finance/maybe
+[2026-03-14 12:00:17] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-14 12:00:01] === Bounty Hunter Scan Started ===
+[2026-03-14 12:00:02] Found 87 bounties in zio/zio
+[2026-03-14 12:00:05] Found 99 bounties in zio/zio-http
+[2026-03-14 12:00:07] Found 10 bounties in zio/zio-json
+[2026-03-14 12:00:10] Found 1 bounties in keephq/keep
+[2026-03-14 12:00:13] Found 39 bounties in golemcloud/golem
+[2026-03-14 12:00:14] Found 10 bounties in maybe-finance/maybe
+[2026-03-14 12:00:17] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-14 16:00:01] === Bounty Hunter Scan Started ===
+[2026-03-14 16:00:03] Found 87 bounties in zio/zio
+[2026-03-14 16:00:06] Found 99 bounties in zio/zio-http
+[2026-03-14 16:00:07] Found 10 bounties in zio/zio-json
+[2026-03-14 16:00:11] Found 1 bounties in keephq/keep
+[2026-03-14 16:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-14 16:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-14 16:00:18] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-14 16:00:01] === Bounty Hunter Scan Started ===
+[2026-03-14 16:00:03] Found 87 bounties in zio/zio
+[2026-03-14 16:00:06] Found 99 bounties in zio/zio-http
+[2026-03-14 16:00:07] Found 10 bounties in zio/zio-json
+[2026-03-14 16:00:11] Found 1 bounties in keephq/keep
+[2026-03-14 16:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-14 16:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-14 16:00:18] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-14 20:00:01] === Bounty Hunter Scan Started ===
+[2026-03-14 20:00:03] Found 87 bounties in zio/zio
+[2026-03-14 20:00:06] Found 99 bounties in zio/zio-http
+[2026-03-14 20:00:07] Found 10 bounties in zio/zio-json
+[2026-03-14 20:00:11] Found 1 bounties in keephq/keep
+[2026-03-14 20:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-14 20:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-14 20:00:17] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-14 20:00:01] === Bounty Hunter Scan Started ===
+[2026-03-14 20:00:03] Found 87 bounties in zio/zio
+[2026-03-14 20:00:06] Found 99 bounties in zio/zio-http
+[2026-03-14 20:00:07] Found 10 bounties in zio/zio-json
+[2026-03-14 20:00:11] Found 1 bounties in keephq/keep
+[2026-03-14 20:00:14] Found 39 bounties in golemcloud/golem
+[2026-03-14 20:00:15] Found 10 bounties in maybe-finance/maybe
+[2026-03-14 20:00:17] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-15 00:00:02] === Bounty Hunter Scan Started ===
+[2026-03-15 00:00:04] Found 87 bounties in zio/zio
+[2026-03-15 00:00:07] Found 99 bounties in zio/zio-http
+[2026-03-15 00:00:09] Found 10 bounties in zio/zio-json
+[2026-03-15 00:00:12] Found 1 bounties in keephq/keep
+[2026-03-15 00:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-15 00:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-15 00:00:19] === Scan Complete: 246 bounties, $12300 total ===
+[2026-03-15 00:00:02] === Bounty Hunter Scan Started ===
+[2026-03-15 00:00:04] Found 87 bounties in zio/zio
+[2026-03-15 00:00:07] Found 99 bounties in zio/zio-http
+[2026-03-15 00:00:09] Found 10 bounties in zio/zio-json
+[2026-03-15 00:00:12] Found 1 bounties in keephq/keep
+[2026-03-15 00:00:15] Found 39 bounties in golemcloud/golem
+[2026-03-15 00:00:17] Found 10 bounties in maybe-finance/maybe
+[2026-03-15 00:00:19] === Scan Complete: 246 bounties, $12300 total ===

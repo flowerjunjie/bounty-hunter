@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/root/.bounty-hunter/simple_api.py", line 23, in <module>
+    server = HTTPServer(("", 8080), BountyHandler)
+  File "/usr/lib/python3.8/socketserver.py", line 452, in __init__
+    self.server_bind()
+  File "/usr/lib/python3.8/http/server.py", line 138, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/usr/lib/python3.8/socketserver.py", line 466, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use

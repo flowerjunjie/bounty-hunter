@@ -1,0 +1,445 @@
+{
+  "scan_time": "2026-03-02T04:00:16.828274",
+  "total_bounties": 31,
+  "total_value": 1550,
+  "avg_bounty": 50.0,
+  "bounties": [
+    {
+      "number": 9909,
+      "title": "Create test suite that tests the correct behaviour of `ZIOApp`",
+      "url": "https://github.com/zio/zio/issues/9909",
+      "amount": 50,
+      "labels": [
+        "\ud83d\udc8e Bounty",
+        "$400"
+      ],
+      "created_at": "2025-05-29T09:28:55Z",
+      "updated_at": "2026-02-28T08:31:38Z",
+      "comments": 18,
+      "repo": "zio/zio"
+    },
+    {
+      "number": 9878,
+      "title": "ZScheduler parks+unparks workers too frequently",
+      "url": "https://github.com/zio/zio/issues/9878",
+      "amount": 50,
+      "labels": [
+        "performance",
+        "\ud83d\udc8e Bounty",
+        "$850"
+      ],
+      "created_at": "2025-05-21T17:15:22Z",
+      "updated_at": "2026-03-01T16:32:16Z",
+      "comments": 16,
+      "repo": "zio/zio"
+    },
+    {
+      "number": 9877,
+      "title": "Can Fiber(Runtime) and Promise be merged?",
+      "url": "https://github.com/zio/zio/issues/9877",
+      "amount": 50,
+      "labels": [
+        "performance",
+        "\ud83d\udc8e Bounty",
+        "$750"
+      ],
+      "created_at": "2025-05-21T16:43:39Z",
+      "updated_at": "2026-03-01T16:43:34Z",
+      "comments": 12,
+      "repo": "zio/zio"
+    },
+    {
+      "number": 9874,
+      "title": "Handling errors allows recovering from defects",
+      "url": "https://github.com/zio/zio/issues/9874",
+      "amount": 50,
+      "labels": [
+        "\ud83d\udc8e Bounty",
+        "$300"
+      ],
+      "created_at": "2025-05-20T16:33:50Z",
+      "updated_at": "2026-02-17T13:49:34Z",
+      "comments": 13,
+      "repo": "zio/zio"
+    },
+    {
+      "number": 9844,
+      "title": "improved `Queue` shutdown functionality",
+      "url": "https://github.com/zio/zio/issues/9844",
+      "amount": 50,
+      "labels": [
+        "\ud83d\udc8e Bounty",
+        "$100"
+      ],
+      "created_at": "2025-05-06T23:10:15Z",
+      "updated_at": "2026-01-25T11:26:27Z",
+      "comments": 10,
+      "repo": "zio/zio"
+    },
+    {
+      "number": 9810,
+      "title": "ZStreams buffer(1) is buffering 2.",
+      "url": "https://github.com/zio/zio/issues/9810",
+      "amount": 50,
+      "labels": [
+        "bug",
+        "\ud83d\udc8e Bounty",
+        "$250"
+      ],
+      "created_at": "2025-04-19T19:25:30Z",
+      "updated_at": "2026-03-01T08:10:10Z",
+      "comments": 13,
+      "repo": "zio/zio"
+    },
+    {
+      "number": 9356,
+      "title": "Implement NIO scheduler for ZIO",
+      "url": "https://github.com/zio/zio/issues/9356",
+      "amount": 50,
+      "labels": [
+        "performance",
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2024-11-29T02:35:52Z",
+      "updated_at": "2026-02-28T11:31:18Z",
+      "comments": 26,
+      "repo": "zio/zio"
+    },
+    {
+      "number": 9339,
+      "title": "Parallelism level in `ZStream#mapZIOPar` is bounded by the buffer size",
+      "url": "https://github.com/zio/zio/issues/9339",
+      "amount": 50,
+      "labels": [
+        "performance",
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2024-11-25T04:56:53Z",
+      "updated_at": "2026-02-01T07:51:31Z",
+      "comments": 16,
+      "repo": "zio/zio"
+    },
+    {
+      "number": 9268,
+      "title": "Easier derivation of Config with Scala 3",
+      "url": "https://github.com/zio/zio/issues/9268",
+      "amount": 50,
+      "labels": [
+        "enhancement",
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2024-11-01T08:39:12Z",
+      "updated_at": "2026-02-19T10:46:23Z",
+      "comments": 10,
+      "repo": "zio/zio"
+    },
+    {
+      "number": 9211,
+      "title": "ZIO.timeoutTO has tremendous overhead",
+      "url": "https://github.com/zio/zio/issues/9211",
+      "amount": 50,
+      "labels": [
+        "performance",
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2024-09-22T10:37:48Z",
+      "updated_at": "2026-03-02T03:02:52Z",
+      "comments": 25,
+      "repo": "zio/zio"
+    },
+    {
+      "number": 9189,
+      "title": "Use ConcurrentLinkedDeque from Scala Native",
+      "url": "https://github.com/zio/zio/issues/9189",
+      "amount": 50,
+      "labels": [
+        "enhancement",
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2024-09-10T10:09:00Z",
+      "updated_at": "2026-02-04T09:06:35Z",
+      "comments": 8,
+      "repo": "zio/zio"
+    },
+    {
+      "number": 9170,
+      "title": "Status of Runtime Operation Logging",
+      "url": "https://github.com/zio/zio/issues/9170",
+      "amount": 50,
+      "labels": [
+        "rts",
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2024-09-04T10:16:53Z",
+      "updated_at": "2026-02-17T13:53:22Z",
+      "comments": 8,
+      "repo": "zio/zio"
+    },
+    {
+      "number": 9101,
+      "title": "zio.test.Gen generates the same data every time in certain conditions ",
+      "url": "https://github.com/zio/zio/issues/9101",
+      "amount": 50,
+      "labels": [
+        "bug",
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2024-08-13T09:07:01Z",
+      "updated_at": "2026-03-01T11:38:20Z",
+      "comments": 26,
+      "repo": "zio/zio"
+    },
+    {
+      "number": 9093,
+      "title": "ZIO's `Semaphore` performance not too great",
+      "url": "https://github.com/zio/zio/issues/9093",
+      "amount": 50,
+      "labels": [
+        "enhancement",
+        "performance",
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2024-08-10T12:17:26Z",
+      "updated_at": "2026-02-28T11:30:34Z",
+      "comments": 18,
+      "repo": "zio/zio"
+    },
+    {
+      "number": 9084,
+      "title": "Add ZStream.fromInputStreamInterruptible",
+      "url": "https://github.com/zio/zio/issues/9084",
+      "amount": 50,
+      "labels": [
+        "enhancement",
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2024-08-07T00:16:00Z",
+      "updated_at": "2026-03-02T02:24:12Z",
+      "comments": 8,
+      "repo": "zio/zio"
+    },
+    {
+      "number": 8861,
+      "title": "Create Loom-friendly concurrent weak set (FiberSet)",
+      "url": "https://github.com/zio/zio/issues/8861",
+      "amount": 50,
+      "labels": [
+        "performance",
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2024-05-15T16:51:54Z",
+      "updated_at": "2026-02-28T10:56:57Z",
+      "comments": 30,
+      "repo": "zio/zio"
+    },
+    {
+      "number": 8807,
+      "title": "Creating highly optimized and specialized fiber mailbox",
+      "url": "https://github.com/zio/zio/issues/8807",
+      "amount": 50,
+      "labels": [
+        "performance",
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2024-04-30T14:41:56Z",
+      "updated_at": "2026-02-28T10:56:58Z",
+      "comments": 33,
+      "repo": "zio/zio"
+    },
+    {
+      "number": 8792,
+      "title": "ZStream.tapSink, either a flaky test or flaky implementation",
+      "url": "https://github.com/zio/zio/issues/8792",
+      "amount": 50,
+      "labels": [
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2024-04-25T08:41:41Z",
+      "updated_at": "2026-02-15T21:31:12Z",
+      "comments": 8,
+      "repo": "zio/zio"
+    },
+    {
+      "number": 8747,
+      "title": "Missing stacktraces from right-side effect of `.flatMap`",
+      "url": "https://github.com/zio/zio/issues/8747",
+      "amount": 50,
+      "labels": [
+        "enhancement",
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2024-04-15T10:01:44Z",
+      "updated_at": "2025-11-22T09:53:30Z",
+      "comments": 9,
+      "repo": "zio/zio"
+    },
+    {
+      "number": 8686,
+      "title": "ZStream.groupedWithin works in unexpected way for infinite stream",
+      "url": "https://github.com/zio/zio/issues/8686",
+      "amount": 50,
+      "labels": [
+        "bug",
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2024-03-11T14:35:05Z",
+      "updated_at": "2024-12-17T05:09:46Z",
+      "comments": 8,
+      "repo": "zio/zio"
+    },
+    {
+      "number": 8668,
+      "title": "zio-test: `macro has not been expanded` for test with flatMap",
+      "url": "https://github.com/zio/zio/issues/8668",
+      "amount": 50,
+      "labels": [
+        "enhancement",
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2024-02-12T15:45:30Z",
+      "updated_at": "2026-02-07T22:48:05Z",
+      "comments": 16,
+      "repo": "zio/zio"
+    },
+    {
+      "number": 8664,
+      "title": "zio-test: classic assertion `equalTo` using `Diff`",
+      "url": "https://github.com/zio/zio/issues/8664",
+      "amount": 50,
+      "labels": [
+        "enhancement",
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2024-02-08T06:45:34Z",
+      "updated_at": "2025-01-28T05:52:33Z",
+      "comments": 14,
+      "repo": "zio/zio"
+    },
+    {
+      "number": 3472,
+      "title": "Split into multiple modules",
+      "url": "https://github.com/zio/zio-http/issues/3472",
+      "amount": 50,
+      "labels": [
+        "\ud83d\udc8e Bounty",
+        "$250"
+      ],
+      "created_at": "2025-04-30T14:57:00Z",
+      "updated_at": "2026-03-01T04:27:29Z",
+      "comments": 8,
+      "repo": "zio/zio-http"
+    },
+    {
+      "number": 3235,
+      "title": "Missing Authorization header is reported as 400 instead of 401",
+      "url": "https://github.com/zio/zio-http/issues/3235",
+      "amount": 50,
+      "labels": [
+        "bug",
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2024-12-05T14:13:27Z",
+      "updated_at": "2026-02-09T16:03:17Z",
+      "comments": 13,
+      "repo": "zio/zio-http"
+    },
+    {
+      "number": 3141,
+      "title": "ClassCassException when using HandlerAspect and Path parameters.",
+      "url": "https://github.com/zio/zio-http/issues/3141",
+      "amount": 50,
+      "labels": [
+        "bug",
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2024-09-16T15:17:14Z",
+      "updated_at": "2026-02-12T14:36:46Z",
+      "comments": 18,
+      "repo": "zio/zio-http"
+    },
+    {
+      "number": 3133,
+      "title": "Flag ZClient.request as deprecated",
+      "url": "https://github.com/zio/zio-http/issues/3133",
+      "amount": 50,
+      "labels": [
+        "enhancement",
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2024-09-12T07:07:04Z",
+      "updated_at": "2026-02-12T15:33:51Z",
+      "comments": 7,
+      "repo": "zio/zio-http"
+    },
+    {
+      "number": 2280,
+      "title": "NoRouteToHostException when making a request to https url from a zio-http Client using Scala 3",
+      "url": "https://github.com/zio/zio-http/issues/2280",
+      "amount": 50,
+      "labels": [
+        "bug",
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2023-06-29T19:25:39Z",
+      "updated_at": "2025-11-10T06:46:55Z",
+      "comments": 14,
+      "repo": "zio/zio-http"
+    },
+    {
+      "number": 1996,
+      "title": "Add support for Happy Eyeballs",
+      "url": "https://github.com/zio/zio-http/issues/1996",
+      "amount": 50,
+      "labels": [
+        "enhancement",
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2023-02-15T15:03:01Z",
+      "updated_at": "2026-01-01T11:06:38Z",
+      "comments": 6,
+      "repo": "zio/zio-http"
+    },
+    {
+      "number": 1090,
+      "title": "zio-json-macros for Scala 3",
+      "url": "https://github.com/zio/zio-json/issues/1090",
+      "amount": 50,
+      "labels": [
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2024-04-14T22:34:35Z",
+      "updated_at": "2026-03-02T03:23:40Z",
+      "comments": 5,
+      "repo": "zio/zio-json"
+    },
+    {
+      "number": 1071,
+      "title": "Error when reading json array file?",
+      "url": "https://github.com/zio/zio-json/issues/1071",
+      "amount": 50,
+      "labels": [
+        "bug",
+        "help wanted",
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2024-02-22T22:12:26Z",
+      "updated_at": "2026-02-10T17:16:28Z",
+      "comments": 7,
+      "repo": "zio/zio-json"
+    },
+    {
+      "number": 3960,
+      "title": "[\ud83d\udd0c Provider]: Nagios Provider",
+      "url": "https://github.com/keephq/keep/issues/3960",
+      "amount": 50,
+      "labels": [
+        "Provider",
+        "\ud83d\udc8e Bounty"
+      ],
+      "created_at": "2025-03-11T07:19:33Z",
+      "updated_at": "2026-02-27T20:14:26Z",
+      "comments": 16,
+      "repo": "keephq/keep"
+    }
+  ]
+}

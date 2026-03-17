@@ -1,0 +1,107 @@
+{
+  "timestamp": "2026-03-12T06:02:48.760591",
+  "target_address": "0x09c18DEa8A2b2cf596D58056F74DACe14Ea7196d",
+  "github_bounties": [],
+  "immunefi_programs": [
+    {
+      "name": "Ethereum",
+      "max_payout": "50000"
+    },
+    {
+      "name": "Aave",
+      "max_payout": "50000"
+    },
+    {
+      "name": "Uniswap",
+      "max_payout": "50000"
+    },
+    {
+      "name": "Curve",
+      "max_payout": "50000"
+    },
+    {
+      "name": "MakerDAO",
+      "max_payout": "50000"
+    },
+    {
+      "name": "Compound",
+      "max_payout": "50000"
+    },
+    {
+      "name": "Lido",
+      "max_payout": "50000"
+    },
+    {
+      "name": "Optimism",
+      "max_payout": "50000"
+    },
+    {
+      "name": "Arbitrum",
+      "max_payout": "50000"
+    },
+    {
+      "name": "Polygon",
+      "max_payout": "50000"
+    }
+  ],
+  "defi_opportunities": [
+    {
+      "type": "\u6d41\u52a8\u6027\u6316\u77ff",
+      "platform": "Uniswap V3",
+      "pool": "ETH/USDC",
+      "apy": "5-10%",
+      "risk": "\u4e2d\u7b49",
+      "action": "\u63d0\u4f9b\u6d41\u52a8\u6027\u83b7\u5f97\u4ea4\u6613\u624b\u7eed\u8d39"
+    },
+    {
+      "type": "\u8d28\u62bc",
+      "platform": "Lido Finance",
+      "token": "stETH",
+      "apy": "3-5%",
+      "risk": "\u4f4e",
+      "action": "\u8d28\u62bc ETH \u83b7\u5f97 stETH"
+    },
+    {
+      "type": "\u501f\u8d37",
+      "platform": "Aave",
+      "action": "\u51fa\u501f\u8d44\u4ea7",
+      "apy": "1-10%",
+      "risk": "\u4f4e-\u4e2d",
+      "details": "\u5728 Aave \u4e0a\u51fa\u501f\u7a33\u5b9a\u5e01\u83b7\u5f97\u5229\u606f"
+    },
+    {
+      "type": "\u5957\u5229",
+      "platform": "\u8de8 DEX",
+      "action": "\u4ef7\u683c\u5dee\u5957\u5229",
+      "potential": "\u9ad8",
+      "risk": "\u9ad8",
+      "details": "\u76d1\u63a7 Uniswap\u3001Sushiswap \u7b49 DEX \u4ef7\u683c\u5dee\u5f02"
+    }
+  ],
+  "airdrop_opportunities": [
+    {
+      "project": "zkSync",
+      "status": "\u672a\u53d1\u5e03",
+      "action": "\u4f7f\u7528 zkSync \u7f51\u7edc\u8fdb\u884c\u4ea4\u6613",
+      "potential": "\u9ad8"
+    },
+    {
+      "project": "Starknet",
+      "status": "\u8fdb\u884c\u4e2d",
+      "action": "\u4f7f\u7528 Starknet dApps",
+      "potential": "\u9ad8"
+    },
+    {
+      "project": "LayerZero",
+      "status": "\u672a\u53d1\u5e03",
+      "action": "\u4f7f\u7528\u8de8\u94fe\u6865",
+      "potential": "\u9ad8"
+    },
+    {
+      "project": "Base",
+      "status": "\u8fdb\u884c\u4e2d",
+      "action": "\u5728 Base \u4e0a\u4ea4\u6613",
+      "potential": "\u4e2d"
+    }
+  ]
+}

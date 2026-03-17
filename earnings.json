@@ -1,0 +1,16 @@
+{
+  "submitted_prs": [
+    {
+      "url": "https://github.com/keephq/keep/pull/5654",
+      "bounty_issue": "https://github.com/keephq/keep/issues/3960",
+      "title": "Add Nagios monitoring provider",
+      "value": 50,
+      "submitted_at": "2026-03-10T12:31:00Z",
+      "status": "OPEN",
+      "last_check": "2026-03-11T03:06:18.136876"
+    }
+  ],
+  "pending_bounties": 249,
+  "total_value": 12450,
+  "last_check": "2026-03-11T03:06:18.138330"
+}
